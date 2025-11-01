@@ -1,0 +1,2530 @@
+Business Model,Commercial
+Business Model,Freeware / Free-to-play / Public Domain
+Business Model,Free (initially commercial)
+Business Model,Shareware
+Parental Control,Level 1
+Parental Control,Level 2
+Parental Control,Level 3
+Parental Control,Level 4
+Parental Control,Level 5
+Parental Control,Level 7
+Parental Control,Level 8
+Parental Control,Level 9
+Parental Control,10 Years Old
+Parental Control,13 Years Old
+Parental Control,17 Years Old
+Versions Available,Emulated Only
+Versions Available,Native & Emulated
+Built-in Video-Out Connectors,Analog (Bellin-Lee / TV Aerial Plug)
+Built-in Video-Out Connectors,Analog (BNC)
+Built-in Video-Out Connectors,Analog (Component Video / YPbPr)
+Built-in Video-Out Connectors,Analog (Composite Video / RCA)
+Built-in Video-Out Connectors,Analog (D-Terminal)
+Built-in Video-Out Connectors,Analog (S-Video)
+Built-in Video-Out Connectors,Analog (SCART)
+Built-in Video-Out Connectors,Analog (VGA)
+Built-in Video-Out Connectors,Digital (DisplayPort)
+Built-in Video-Out Connectors,Digital (DVI)
+Built-in Video-Out Connectors,Digital (HDMI)
+Built-in Video-Out Connectors,Digital (Micro HDMI)
+Built-in Video-Out Connectors,Digital (Mini HDMI)
+Built-in Video-Out Connectors,Digital (SDI)
+Minimum CPU Class Required,Apple II
+Minimum CPU Class Required,Apple II+
+Minimum CPU Class Required,Apple IIc
+Minimum CPU Class Required,Apple IIc Plus
+Minimum CPU Class Required,Apple IIe
+Minimum CPU Class Required,Amiga 500/2000
+Minimum CPU Class Required,Amiga 500+
+Minimum CPU Class Required,Amiga 600
+Minimum CPU Class Required,Amiga 1000
+Minimum CPU Class Required,Amiga 1200
+Minimum CPU Class Required,Amiga 4000
+Minimum CPU Class Required,AmigaPPC
+Minimum CPU Class Required,MOS 6502
+Minimum CPU Class Required,Motorola 68000
+Minimum CPU Class Required,Motorola 68020
+Minimum CPU Class Required,Motorola 68030
+Minimum CPU Class Required,Motorola 68040
+Minimum CPU Class Required,PowerPC 601
+Minimum CPU Class Required,PowerPC 601v / PowerPC 601+
+Minimum CPU Class Required,PowerPC 603
+Minimum CPU Class Required,PowerPC 603e
+Minimum CPU Class Required,PowerPC 603ev
+Minimum CPU Class Required,PowerPC 604
+Minimum CPU Class Required,PowerPC 604e
+Minimum CPU Class Required,PowerPC 7xx / PowerPC G3
+Minimum CPU Class Required,PowerPC 74xx / PowerPC G4
+Minimum CPU Class Required,PowerPC 970 series / PowerPC G5
+Minimum CPU Class Required,Intel x86
+Minimum CPU Class Required,Intel 8088 / 8086
+Minimum CPU Class Required,Intel 80286
+Minimum CPU Class Required,Intel i386
+Minimum CPU Class Required,Intel i386 SX
+Minimum CPU Class Required,Intel i386 DX
+Minimum CPU Class Required,Intel i486
+Minimum CPU Class Required,Intel i486 DX
+Minimum CPU Class Required,Intel i486 SX
+Minimum CPU Class Required,Intel i486 DX2
+Minimum CPU Class Required,Intel IntelDX4
+Minimum CPU Class Required,Intel Pentium
+Minimum CPU Class Required,Intel Pentium MMX
+Minimum CPU Class Required,Intel Pentium II
+Minimum CPU Class Required,Intel Pentium III
+Minimum CPU Class Required,Intel Pentium 4
+Minimum CPU Class Required,Intel Pentium D
+Minimum CPU Class Required,Intel Pentium Dual-Core
+Minimum CPU Class Required,Intel Core Solo
+Minimum CPU Class Required,Intel Core Duo
+Minimum CPU Class Required,Intel Core 2 Duo
+Minimum CPU Class Required,Intel Core 2 Quad
+Minimum CPU Class Required,Intel Core i3-5xx
+Minimum CPU Class Required,Intel Core i5-7xx / i5-6xx
+Minimum CPU Class Required,Intel Core i7-9xx / i7-8xx
+Minimum CPU Class Required,Intel Core i3-2xxx
+Minimum CPU Class Required,Intel Core i5-2xxx
+Minimum CPU Class Required,Intel Core i7-2xxx / i7-38xx / i7-39xx
+Minimum CPU Class Required,Intel Core i3-32xx
+Minimum CPU Class Required,Intel Core i5-3xxx
+Minimum CPU Class Required,Intel Core i7-3770 / i7-48xx / i7-49xx
+Minimum CPU Class Required,Intel Core i3-4xxx
+Minimum CPU Class Required,Intel Core i5-4xxx
+Minimum CPU Class Required,Intel Core i7-47xx / i7-5xxx
+Minimum CPU Class Required,Intel Core i5-5xxx
+Minimum CPU Class Required,Intel Core i7-57xx / i7-6xxx
+Minimum CPU Class Required,Intel Core i3-6xxx
+Minimum CPU Class Required,Intel Core i5-6xxx
+Minimum CPU Class Required,Intel Core i7-67xx / i7-78xx / i7-98xx
+Minimum CPU Class Required,Intel Core i3-7xxx
+Minimum CPU Class Required,Intel Core i5-7xxx
+Minimum CPU Class Required,Intel Core i7-77xx
+Minimum CPU Class Required,Intel Core i3-8xxx
+Minimum CPU Class Required,Intel Core i5-8xxx
+Minimum CPU Class Required,Intel Core i7-8xxx
+Minimum OS Class Required,None (Bootable)
+Minimum OS Class Required,Apple DOS 3.0
+Minimum OS Class Required,Apple DOS 3.1
+Minimum OS Class Required,Apple DOS 3.2
+Minimum OS Class Required,Apple DOS 3.2.1
+Minimum OS Class Required,Apple DOS 3.3
+Minimum OS Class Required,Apple II CP/M
+Minimum OS Class Required,ProDOS 1.0
+Minimum OS Class Required,ProDOS 1.0.1
+Minimum OS Class Required,ProDOS 1.0.2
+Minimum OS Class Required,ProDOS 1.1
+Minimum OS Class Required,ProDOS 1.1.1
+Minimum OS Class Required,ProDOS 8 v1.2
+Minimum OS Class Required,ProDOS 8 v1.3
+Minimum OS Class Required,ProDOS 8 v1.4
+Minimum OS Class Required,ProDOS 8 v1.5
+Minimum OS Class Required,ProDOS 8 v1.6
+Minimum OS Class Required,ProDOS 8 v1.7
+Minimum OS Class Required,ProDOS 8 v1.8
+Minimum OS Class Required,ProDOS 8 v1.9
+Minimum OS Class Required,System 1.0 (ProDOS 16 v1.0)
+Minimum OS Class Required,System 1.1 (ProDOS 16 v1.1)
+Minimum OS Class Required,System 2.0 (ProDOS 16 v1.2)
+Minimum OS Class Required,System 3.1 (ProDOS 16 v1.3)
+Minimum OS Class Required,System 3.2 (ProDOS 16 v1.6)
+Minimum OS Class Required,System 4.0 (GS/OS v2.0)
+Minimum OS Class Required,System 5.0 (GS/OS v3.0)
+Minimum OS Class Required,System 5.0.2 (GS/OS v3.0)
+Minimum OS Class Required,System 5.0.3 (GS/OS v3.03)
+Minimum OS Class Required,System 5.0.4 (GS/OS v3.03)
+Minimum OS Class Required,System 6.0 (GS/OS v4.01)
+Minimum OS Class Required,System 6.01 (GS/OS v4.02)
+Minimum OS Class Required,Kickstart 1.0
+Minimum OS Class Required,Kickstart 1.1
+Minimum OS Class Required,Kickstart 1.2
+Minimum OS Class Required,Kickstart 1.3
+Minimum OS Class Required,Kickstart 2.0
+Minimum OS Class Required,Kickstart 3.0
+Minimum OS Class Required,Kickstart 3.1
+Minimum OS Class Required,AmigaOS 4.0
+Minimum OS Class Required,AmigaOS 4.1
+Minimum OS Class Required,AmigaOS 4.1.1
+Minimum OS Class Required,DOS 1.0
+Minimum OS Class Required,DOS 2.0
+Minimum OS Class Required,DOS 2.5
+Minimum OS Class Required,DOS 3.0
+Minimum OS Class Required,DOS XE / ADOS
+Minimum OS Class Required,PC/MS-DOS 1.0
+Minimum OS Class Required,PC/MS-DOS 1.1
+Minimum OS Class Required,PC/MS-DOS 1.14
+Minimum OS Class Required,PC/MS-DOS 1.25
+Minimum OS Class Required,PC/MS-DOS 2.0
+Minimum OS Class Required,PC/MS-DOS 2.01
+Minimum OS Class Required,PC/MS-DOS 2.05
+Minimum OS Class Required,PC/MS-DOS 2.1
+Minimum OS Class Required,PC/MS-DOS 2.11
+Minimum OS Class Required,PC/MS-DOS 3.0
+Minimum OS Class Required,PC/MS-DOS 3.1
+Minimum OS Class Required,PC/MS-DOS 3.2
+Minimum OS Class Required,PC/MS-DOS 3.21
+Minimum OS Class Required,PC/MS-DOS 3.3
+Minimum OS Class Required,PC/MS-DOS 3.31
+Minimum OS Class Required,PC/MS-DOS 4.0
+Minimum OS Class Required,PC/MS-DOS 4.01
+Minimum OS Class Required,PC/MS-DOS 5.0
+Minimum OS Class Required,PC/MS-DOS 5.1
+Minimum OS Class Required,MS-DOS 6.0
+Minimum OS Class Required,MS-DOS 6.2
+Minimum OS Class Required,MS-DOS 6.21
+Minimum OS Class Required,MS-DOS 6.22
+Minimum OS Class Required,DOS 3.0 to 3.3
+Minimum OS Class Required,DOS 4.0 to 6.22
+Minimum OS Class Required,Palm OS 1.0
+Minimum OS Class Required,Palm OS 2.0
+Minimum OS Class Required,Palm OS 3.0
+Minimum OS Class Required,Palm OS 3.1
+Minimum OS Class Required,Palm OS 3.5
+Minimum OS Class Required,Palm OS 4.0
+Minimum OS Class Required,Palm OS 5.0 (Garnet)
+Minimum OS Class Required,Palm OS 6.0 (Cobalt)
+Minimum OS Class Required,EPOC Release 1
+Minimum OS Class Required,EPOC Release 3
+Minimum OS Class Required,EPOC Release 4
+Minimum OS Class Required,EPOC Release 5
+Minimum OS Class Required,Symbian OS 6.0
+Minimum OS Class Required,Symbian OS 6.1
+Minimum OS Class Required,Symbian OS 7.0
+Minimum OS Class Required,Symbian OS 8.0
+Minimum OS Class Required,Symbian OS 8.1
+Minimum OS Class Required,Symbian OS 9.1
+Minimum OS Class Required,Symbian OS 9.2
+Minimum OS Class Required,Symbian OS 9.3
+Minimum OS Class Required,Symbian OS 9.4
+Minimum OS Class Required,Symbian OS 9.5
+Minimum OS Class Required,Symbian^2
+Minimum OS Class Required,Symbian^3
+Minimum OS Class Required,Symbian Anna
+Minimum OS Class Required,Symbian/Nokia Belle
+Minimum OS Class Required,tvOS 9.0
+Minimum OS Class Required,tvOS 9.0.1
+Minimum OS Class Required,tvOS 9.1
+Minimum OS Class Required,tvOS 9.1.1
+Minimum OS Class Required,tvOS 9.2
+Minimum OS Class Required,tvOS 9.2.1
+Minimum OS Class Required,tvOS 9.2.2
+Minimum OS Class Required,tvOS 10.0
+Minimum OS Class Required,tvOS 10.0.1
+Minimum OS Class Required,tvOS 10.1
+Minimum OS Class Required,tvOS 10.1.1
+Minimum OS Class Required,tvOS 10.2
+Minimum OS Class Required,tvOS 10.2.1
+Minimum OS Class Required,tvOS 10.2.2
+Minimum OS Class Required,tvOS 11.0
+Minimum OS Class Required,tvOS 11.1
+Minimum OS Class Required,tvOS 11.2
+Minimum OS Class Required,tvOS 11.2.1
+Minimum OS Class Required,tvOS 11.2.5
+Minimum OS Class Required,tvOS 11.2.6
+Minimum OS Class Required,tvOS 11.3
+Minimum OS Class Required,tvOS 11.4
+Minimum OS Class Required,tvOS 11.4.1
+Minimum OS Class Required,tvOS 13.0
+Minimum OS Class Required,watchOS 1.0
+Minimum OS Class Required,watchOS 1.0.1
+Minimum OS Class Required,watchOS 2.0
+Minimum OS Class Required,watchOS 2.0.1
+Minimum OS Class Required,watchOS 2.1
+Minimum OS Class Required,watchOS 2.2
+Minimum OS Class Required,watchOS 2.2.1
+Minimum OS Class Required,watchOS 2.2.2
+Minimum OS Class Required,watchOS 3.0
+Minimum OS Class Required,watchOS 3.1
+Minimum OS Class Required,watchOS 3.1.1
+Minimum OS Class Required,watchOS 3.1.3
+Minimum OS Class Required,watchOS 3.2
+Minimum OS Class Required,watchOS 3.2.2
+Minimum OS Class Required,watchOS 3.2.3
+Minimum OS Class Required,watchOS 4.0
+Minimum OS Class Required,watchOS 4.0.1
+Minimum OS Class Required,watchOS 4.1
+Minimum OS Class Required,watchOS 4.2
+Minimum OS Class Required,watchOS 4.2.2
+Minimum OS Class Required,watchOS 4.2.3
+Minimum OS Class Required,watchOS 4.3
+Minimum OS Class Required,watchOS 4.3.1
+Minimum OS Class Required,watchOS 4.3.2
+Minimum OS Class Required,Microsoft Extended Basic
+Minimum OS Class Required,Windows CE 1.0 (Pegasus)
+Minimum OS Class Required,Windows CE 2.01 (Gryphon)
+Minimum OS Class Required,Windows CE 2.11 (Wyvern)
+Minimum OS Class Required,Pocket PC 2000 (Rapier)
+Minimum OS Class Required,Pocket PC 2002 (Merlin)
+Minimum OS Class Required,Windows Mobile 2003 (Ozone)
+Minimum OS Class Required,Windows Mobile 2003 SE
+Minimum OS Class Required,Windows Mobile 5.0 (Magneto)
+Minimum OS Class Required,Windows Mobile 6.0 (Crossbow)
+Minimum OS Class Required,Windows Mobile 6.1
+Minimum OS Class Required,Windows Mobile 6.5
+Minimum OS Class Required,Android 1.0
+Minimum OS Class Required,Android 1.1
+Minimum OS Class Required,Android 1.5 (Cupcake)
+Minimum OS Class Required,Android 1.6 (Donut)
+Minimum OS Class Required,Android 2.0 (Eclair)
+Minimum OS Class Required,Android 2.0.1
+Minimum OS Class Required,Android 2.1 (Eclair)
+Minimum OS Class Required,Android 2.2 (Froyo)
+Minimum OS Class Required,Android 2.2.1
+Minimum OS Class Required,Android 2.3 (Gingerbread)
+Minimum OS Class Required,Android 2.3.2
+Minimum OS Class Required,Android 2.3.3
+Minimum OS Class Required,Android 3.0 (Honeycomb)
+Minimum OS Class Required,Android 3.1 (Honeycomb)
+Minimum OS Class Required,Android 3.2 (Honeycomb)
+Minimum OS Class Required,Android 4.0 (Ice Cream Sandwich)
+Minimum OS Class Required,Android 4.0.3
+Minimum OS Class Required,Android 4.1 (Jelly Bean)
+Minimum OS Class Required,Android 4.2
+Minimum OS Class Required,Android 4.3
+Minimum OS Class Required,Android 4.4 (KitKat)
+Minimum OS Class Required,Android 5.0 (Lollipop)
+Minimum OS Class Required,Android 5.1
+Minimum OS Class Required,Android 6.0 (Marshmallow)
+Minimum OS Class Required,Android 7.0 (Nougat)
+Minimum OS Class Required,Android 7.1
+Minimum OS Class Required,Android 8.0 (Oreo)
+Minimum OS Class Required,Android 8.1
+Minimum OS Class Required,Android 9.0 (Pie)
+Minimum OS Class Required,Android 10 (Queen Cake)
+Minimum OS Class Required,Android 11
+Minimum OS Class Required,Varies with device
+Minimum OS Class Required,Android 12
+Minimum OS Class Required,Android 13
+Minimum OS Class Required,N88-BASIC ROM
+Minimum OS Class Required,N88-日本語-BASIC / 8801-漢字-BASIC
+Minimum OS Class Required,N-BASIC ROM
+Minimum OS Class Required,N88-DISK BASIC
+Minimum OS Class Required,bada 1.0
+Minimum OS Class Required,bada 1.1
+Minimum OS Class Required,bada 1.2
+Minimum OS Class Required,bada 2.0
+Minimum OS Class Required,webOS 1.0.0
+Minimum OS Class Required,webOS 3.0
+Minimum OS Class Required,BlackBerry OS 1.0
+Minimum OS Class Required,BlackBerry OS 3.6
+Minimum OS Class Required,BlackBerry OS 4.5
+Minimum OS Class Required,BlackBerry OS 5.0
+Minimum OS Class Required,BlackBerry OS 6.0
+Minimum OS Class Required,BlackBerry OS 7.0
+Minimum OS Class Required,BlackBerry OS 7.1
+Minimum OS Class Required,BlackBerry Tablet OS 1.0
+Minimum OS Class Required,BlackBerry Tablet OS 1.0.6
+Minimum OS Class Required,BlackBerry Tablet OS 2.0
+Minimum OS Class Required,Blackberry 10
+Minimum OS Class Required,OS/2 1.0
+Minimum OS Class Required,OS/2 1.1
+Minimum OS Class Required,OS/2 1.2
+Minimum OS Class Required,OS/2 1.3
+Minimum OS Class Required,OS/2 2.0
+Minimum OS Class Required,OS/2 2.1
+Minimum OS Class Required,OS/2 Warp 3
+Minimum OS Class Required,OS/2 Warp 4
+Minimum OS Class Required,BeOS R3
+Minimum OS Class Required,BeOS R3.1
+Minimum OS Class Required,BeOS R3.2
+Minimum OS Class Required,BeOS R4
+Minimum OS Class Required,BeOS R4.5
+Minimum OS Class Required,BeOS R5 PE/Pro
+Minimum OS Class Required,Windows Phone 7
+Minimum OS Class Required,Windows Phone 7.5
+Minimum OS Class Required,Windows Phone 7.8
+Minimum OS Class Required,Windows Phone 8
+Minimum OS Class Required,Windows Phone 8.1
+Minimum OS Class Required,Windows 10 Mobile
+Minimum OS Class Required,Tizen 1.0
+Minimum OS Class Required,Tizen 2.0
+Minimum OS Class Required,Tizen 2.1
+Minimum OS Class Required,Tizen 2.2
+Minimum OS Class Required,Tizen 2.2.1
+Minimum OS Class Required,Tizen 2.3
+Minimum OS Class Required,Tizen 2.3.1
+Minimum OS Class Required,Tizen 2.4
+Minimum OS Class Required,Newton OS 1.0
+Minimum OS Class Required,Newton OS 1.1
+Minimum OS Class Required,Newton OS 1.2
+Minimum OS Class Required,Newton OS 1.3
+Minimum OS Class Required,Newton OS 2.0
+Minimum OS Class Required,Newton OS 2.1
+Minimum OS Class Required,"ROM 1 / ROM ""A"""
+Minimum OS Class Required,"ROM 2 / ROM ""B"""
+Minimum OS Class Required,"ROM 3 / ROM ""C"""
+Minimum OS Class Required,"ROM 4 / ROM ""D"""
+Minimum OS Class Required,System 1.0
+Minimum OS Class Required,System 2.0
+Minimum OS Class Required,System 3.0
+Minimum OS Class Required,System 3.2
+Minimum OS Class Required,System 4.0
+Minimum OS Class Required,System 5.0
+Minimum OS Class Required,System 6.0
+Minimum OS Class Required,System 6.0.2
+Minimum OS Class Required,System 6.0.3
+Minimum OS Class Required,System 6.0.4
+Minimum OS Class Required,System 6.0.5
+Minimum OS Class Required,System 6.0.7
+Minimum OS Class Required,System 6.0.8
+Minimum OS Class Required,System 6.1
+Minimum OS Class Required,System 7.0
+Minimum OS Class Required,System 7.0.1
+Minimum OS Class Required,System 7.1
+Minimum OS Class Required,System 7.1.1
+Minimum OS Class Required,System 7.1.2
+Minimum OS Class Required,System 7.5
+Minimum OS Class Required,System 7.5.1
+Minimum OS Class Required,System 7.5.2
+Minimum OS Class Required,System 7.5.3
+Minimum OS Class Required,System 7.5.5
+Minimum OS Class Required,Mac OS 7.6
+Minimum OS Class Required,Mac OS 7.6.1
+Minimum OS Class Required,Mac OS 8.0
+Minimum OS Class Required,Mac OS 8.1
+Minimum OS Class Required,Mac OS 8.5.1
+Minimum OS Class Required,Mac OS 8.5
+Minimum OS Class Required,Mac OS 8.6
+Minimum OS Class Required,Mac OS 9.0
+Minimum OS Class Required,Mac OS 9.0.4
+Minimum OS Class Required,Mac OS 9.1
+Minimum OS Class Required,Mac OS 9.2
+Minimum OS Class Required,Mac OS 9.2.1
+Minimum OS Class Required,Mac OS 9.2.2
+Minimum OS Class Required,Mac OS X 10.0 (Cheetah)
+Minimum OS Class Required,Mac OS X 10.0.1
+Minimum OS Class Required,Mac OS X 10.0.2
+Minimum OS Class Required,Mac OS X 10.0.3
+Minimum OS Class Required,Mac OS X 10.0.4
+Minimum OS Class Required,Mac OS X 10.1 (Puma)
+Minimum OS Class Required,Mac OS X 10.1.1
+Minimum OS Class Required,Mac OS X 10.1.2
+Minimum OS Class Required,Mac OS X 10.1.3
+Minimum OS Class Required,Mac OS X 10.1.4
+Minimum OS Class Required,Mac OS X 10.1.5
+Minimum OS Class Required,Mac OS X 10.2 (Jaguar)
+Minimum OS Class Required,Mac OS X 10.2.1
+Minimum OS Class Required,Mac OS X 10.2.2
+Minimum OS Class Required,Mac OS X 10.2.3
+Minimum OS Class Required,Mac OS X 10.2.4
+Minimum OS Class Required,Mac OS X 10.2.5
+Minimum OS Class Required,Mac OS X 10.2.6
+Minimum OS Class Required,Mac OS X 10.2.8
+Minimum OS Class Required,Mac OS X 10.3 (Panther)
+Minimum OS Class Required,Mac OS X 10.3.1
+Minimum OS Class Required,Mac OS X 10.3.2
+Minimum OS Class Required,Mac OS X 10.3.3
+Minimum OS Class Required,Mac OS X 10.3.4
+Minimum OS Class Required,Mac OS X 10.3.5
+Minimum OS Class Required,Mac OS X 10.3.6
+Minimum OS Class Required,Mac OS X 10.3.7
+Minimum OS Class Required,Mac OS X 10.3.8
+Minimum OS Class Required,Mac OS X 10.3.9
+Minimum OS Class Required,Mac OS X 10.4 (Tiger)
+Minimum OS Class Required,Mac OS X 10.4.1
+Minimum OS Class Required,Mac OS X 10.4.2
+Minimum OS Class Required,Mac OS X 10.4.3
+Minimum OS Class Required,Mac OS X 10.4.4
+Minimum OS Class Required,Mac OS X 10.4.5
+Minimum OS Class Required,Mac OS X 10.4.6
+Minimum OS Class Required,Mac OS X 10.4.8
+Minimum OS Class Required,Mac OS X 10.4.9
+Minimum OS Class Required,Mac OS X 10.4.10
+Minimum OS Class Required,Mac OS X 10.4.11
+Minimum OS Class Required,Mac OS X 10.5 (Leopard)
+Minimum OS Class Required,Mac OS X 10.5.1
+Minimum OS Class Required,Mac OS X 10.5.2
+Minimum OS Class Required,Mac OS X 10.5.3
+Minimum OS Class Required,Mac OS X 10.5.4
+Minimum OS Class Required,Mac OS X 10.5.6
+Minimum OS Class Required,Mac OS X 10.5.7
+Minimum OS Class Required,Mac OS X 10.5.8
+Minimum OS Class Required,Mac OS X 10.6 (Snow Leopard)
+Minimum OS Class Required,Mac OS X 10.6.1
+Minimum OS Class Required,Mac OS X 10.6.2
+Minimum OS Class Required,Mac OS X 10.6.3
+Minimum OS Class Required,Mac OS X 10.6.4
+Minimum OS Class Required,Mac OS X 10.6.5
+Minimum OS Class Required,Mac OS X 10.6.6
+Minimum OS Class Required,Mac OS X 10.6.7
+Minimum OS Class Required,Mac OS X 10.6.8
+Minimum OS Class Required,Mac OS X 10.7 (Lion)
+Minimum OS Class Required,Mac OS X 10.7.1
+Minimum OS Class Required,Mac OS X 10.7.2
+Minimum OS Class Required,Mac OS X 10.7.3
+Minimum OS Class Required,Mac OS X 10.7.4
+Minimum OS Class Required,Mac OS X 10.7.5
+Minimum OS Class Required,Mac OS X 10.8 (Mountain Lion)
+Minimum OS Class Required,Mac OS X 10.8.1
+Minimum OS Class Required,Mac OS X 10.8.3
+Minimum OS Class Required,Mac OS X 10.8.4
+Minimum OS Class Required,Mac OS X 10.8.5
+Minimum OS Class Required,Mac OS X 10.9 (Mavericks)
+Minimum OS Class Required,Mac OS X 10.9.1
+Minimum OS Class Required,Mac OS X 10.9.2
+Minimum OS Class Required,Mac OS X 10.9.3
+Minimum OS Class Required,Mac OS X 10.9.4
+Minimum OS Class Required,Mac OS X 10.9.5
+Minimum OS Class Required,Mac OS X 10.9.6
+Minimum OS Class Required,Mac OS X 10.10 (Yosemite)
+Minimum OS Class Required,Mac OS X 10.10.2
+Minimum OS Class Required,Mac OS X 10.10.3
+Minimum OS Class Required,Mac OS X 10.10.4
+Minimum OS Class Required,Mac OS X 10.10.5
+Minimum OS Class Required,Mac OS X 10.11 (El Capitan)
+Minimum OS Class Required,Mac OS X 10.11.1
+Minimum OS Class Required,Mac OS X 10.11.2
+Minimum OS Class Required,Mac OS X 10.11.5
+Minimum OS Class Required,Mac OS X 10.11.6
+Minimum OS Class Required,macOS 10.12 (Sierra)
+Minimum OS Class Required,macOS 10.12.1
+Minimum OS Class Required,macOS 10.12.2
+Minimum OS Class Required,macOS 10.12.3
+Minimum OS Class Required,macOS 10.12.4
+Minimum OS Class Required,macOS 10.12.5
+Minimum OS Class Required,macOS 10.12.6
+Minimum OS Class Required,macOS 10.13 (High Sierra)
+Minimum OS Class Required,macOS 10.13.1
+Minimum OS Class Required,macOS 10.13.2
+Minimum OS Class Required,macOS 10.13.3
+Minimum OS Class Required,macOS 10.13.4
+Minimum OS Class Required,macOS 10.13.5
+Minimum OS Class Required,macOS 10.13.6
+Minimum OS Class Required,macOS 10.14 (Mojave)
+Minimum OS Class Required,macOS 10.14.1
+Minimum OS Class Required,macOS 10.14.2
+Minimum OS Class Required,macOS 10.14.3
+Minimum OS Class Required,macOS 10.14.4
+Minimum OS Class Required,macOS 10.14.5
+Minimum OS Class Required,macOS 10.14.6
+Minimum OS Class Required,macOS 10.15 (Catalina)
+Minimum OS Class Required,macOS 10.15.6
+Minimum OS Class Required,macOS 11.0 (Big Sur)
+Minimum OS Class Required,macOS 11.1
+Minimum OS Class Required,macOS 12 (Monterey)
+Minimum OS Class Required,macOS 13 (Ventura)
+Minimum OS Class Required,macOS 14 (Sonoma)
+Minimum OS Class Required,macOS 15 (Sequoia)
+Minimum OS Class Required,Windows 1.01
+Minimum OS Class Required,Windows 1.02
+Minimum OS Class Required,Windows 1.03
+Minimum OS Class Required,Windows 1.04
+Minimum OS Class Required,Windows 2.03
+Minimum OS Class Required,Windows 2.1
+Minimum OS Class Required,Windows 2.11
+Minimum OS Class Required,Windows 3.0
+Minimum OS Class Required,Windows 3.1
+Minimum OS Class Required,Windows 3.11
+Minimum OS Class Required,Windows NT 3.1
+Minimum OS Class Required,Windows NT 3.5
+Minimum OS Class Required,Windows NT 3.51
+Minimum OS Class Required,Windows 95
+Minimum OS Class Required,Windows 95b (OSR2 / 2.1)
+Minimum OS Class Required,Windows 95c (OSR2.5)
+Minimum OS Class Required,Windows 98
+Minimum OS Class Required,Windows 98SE
+Minimum OS Class Required,Windows ME
+Minimum OS Class Required,Windows NT 4.0
+Minimum OS Class Required,Windows 2000
+Minimum OS Class Required,Windows 2000 SP1
+Minimum OS Class Required,Windows 2000 SP2
+Minimum OS Class Required,Windows 2000 SP3
+Minimum OS Class Required,Windows 2000 SP4
+Minimum OS Class Required,Windows XP
+Minimum OS Class Required,Windows XP SP1
+Minimum OS Class Required,Windows XP SP2
+Minimum OS Class Required,Windows XP SP3
+Minimum OS Class Required,Windows Vista
+Minimum OS Class Required,Windows Vista SP1
+Minimum OS Class Required,Windows Vista SP2
+Minimum OS Class Required,Windows 7
+Minimum OS Class Required,Windows 7 SP1
+Minimum OS Class Required,Windows 7 with Cumulative Update
+Minimum OS Class Required,Windows 8
+Minimum OS Class Required,Windows 8.1
+Minimum OS Class Required,Windows 10
+Minimum OS Class Required,Windows 11
+Minimum OS Class Required,iPhone OS 1.x
+Minimum OS Class Required,iPhone OS 2.0
+Minimum OS Class Required,iPhone OS 2.1
+Minimum OS Class Required,iPhone OS 2.2
+Minimum OS Class Required,iPhone OS 2.2.1
+Minimum OS Class Required,iPhone OS 3.0
+Minimum OS Class Required,iPhone OS 3.1
+Minimum OS Class Required,iPhone OS 3.1.2
+Minimum OS Class Required,iPhone OS 3.1.3
+Minimum OS Class Required,iPhone OS 3.2
+Minimum OS Class Required,iPhone OS 3.2.1
+Minimum OS Class Required,iPhone OS 3.2.2
+Minimum OS Class Required,iOS 4.0
+Minimum OS Class Required,iOS 4.0.1
+Minimum OS Class Required,iOS 4.0.2
+Minimum OS Class Required,iOS 4.1
+Minimum OS Class Required,iOS 4.2
+Minimum OS Class Required,iOS 4.2.1
+Minimum OS Class Required,iOS 4.2.5
+Minimum OS Class Required,iOS 4.2.6
+Minimum OS Class Required,iOS 4.2.7
+Minimum OS Class Required,iOS 4.2.8
+Minimum OS Class Required,iOS 4.2.9
+Minimum OS Class Required,iOS 4.2.10
+Minimum OS Class Required,iOS 4.3
+Minimum OS Class Required,iOS 4.3.1
+Minimum OS Class Required,iOS 4.3.2
+Minimum OS Class Required,iOS 4.3.3
+Minimum OS Class Required,iOS 4.3.4
+Minimum OS Class Required,iOS 4.3.5
+Minimum OS Class Required,iOS 5.0
+Minimum OS Class Required,iOS 5.0.1
+Minimum OS Class Required,iOS 5.1
+Minimum OS Class Required,iOS 5.1.1
+Minimum OS Class Required,iOS 6.0
+Minimum OS Class Required,iOS 6.0.1
+Minimum OS Class Required,iOS 6.0.2
+Minimum OS Class Required,iOS 6.1
+Minimum OS Class Required,iOS 6.1.1
+Minimum OS Class Required,iOS 6.1.2
+Minimum OS Class Required,iOS 6.1.3
+Minimum OS Class Required,iOS 6.1.4
+Minimum OS Class Required,iOS 6.1.6
+Minimum OS Class Required,iOS 7.0
+Minimum OS Class Required,iOS 7.0.1
+Minimum OS Class Required,iOS 7.0.2
+Minimum OS Class Required,iOS 7.0.3
+Minimum OS Class Required,iOS 7.0.4
+Minimum OS Class Required,iOS 7.0.5
+Minimum OS Class Required,iOS 7.0.6
+Minimum OS Class Required,iOS 7.1
+Minimum OS Class Required,iOS 7.1.1
+Minimum OS Class Required,iOS 7.1.2
+Minimum OS Class Required,iOS 8.0
+Minimum OS Class Required,iOS 8.0.2
+Minimum OS Class Required,iOS 8.1
+Minimum OS Class Required,iOS 8.1.1
+Minimum OS Class Required,iOS 8.1.2
+Minimum OS Class Required,iOS 8.1.3
+Minimum OS Class Required,iOS 8.2
+Minimum OS Class Required,iOS 8.3
+Minimum OS Class Required,iOS 8.4
+Minimum OS Class Required,iOS 8.4.1
+Minimum OS Class Required,iOS 9.0
+Minimum OS Class Required,iOS 9.0.1
+Minimum OS Class Required,iOS 9.0.2
+Minimum OS Class Required,iOS 9.1
+Minimum OS Class Required,iOS 9.2
+Minimum OS Class Required,iOS 9.2.1
+Minimum OS Class Required,iOS 9.3
+Minimum OS Class Required,iOS 9.3.1
+Minimum OS Class Required,iOS 9.3.2
+Minimum OS Class Required,iOS 9.3.3
+Minimum OS Class Required,iOS 9.3.4
+Minimum OS Class Required,iOS 9.3.5
+Minimum OS Class Required,iOS 10.0
+Minimum OS Class Required,iOS 10.0.1
+Minimum OS Class Required,iOS 10.0.2
+Minimum OS Class Required,iOS 10.0.3
+Minimum OS Class Required,iOS 10.1
+Minimum OS Class Required,iOS 10.1.1
+Minimum OS Class Required,iOS 10.2
+Minimum OS Class Required,iOS 10.2.1
+Minimum OS Class Required,iOS 10.3
+Minimum OS Class Required,iOS 10.3.1
+Minimum OS Class Required,iOS 10.3.2
+Minimum OS Class Required,iOS 10.3.3
+Minimum OS Class Required,iOS 10.3.4
+Minimum OS Class Required,iOS 11.0
+Minimum OS Class Required,iOS 11.0.1
+Minimum OS Class Required,iOS 11.0.2
+Minimum OS Class Required,iOS 11.0.3
+Minimum OS Class Required,iOS 11.1
+Minimum OS Class Required,iOS 11.1.1
+Minimum OS Class Required,iOS 11.1.2
+Minimum OS Class Required,iOS 11.2
+Minimum OS Class Required,iOS 11.2.1
+Minimum OS Class Required,iOS 11.2.2
+Minimum OS Class Required,iOS 11.2.5
+Minimum OS Class Required,iOS 11.2.6
+Minimum OS Class Required,iOS 11.3
+Minimum OS Class Required,iOS 11.3.1
+Minimum OS Class Required,iOS 11.4
+Minimum OS Class Required,iOS 11.4.1
+Minimum OS Class Required,iOS 12.0
+Minimum OS Class Required,iOS 12.4
+Minimum OS Class Required,iOS 13.0
+Minimum OS Class Required,iPadOS 13.1
+Minimum OS Class Required,iOS 13.1
+Minimum OS Class Required,iOS 13.1.1
+Minimum OS Class Required,iPadOS 13.1.1
+Minimum OS Class Required,iPadOS 13.1.2
+Minimum OS Class Required,iOS 13.1.2
+Minimum OS Class Required,iOS 13.1.3
+Minimum OS Class Required,iPadOS 13.1.3
+Minimum OS Class Required,iOS 13.2
+Minimum OS Class Required,iPadOS 13.2
+Minimum OS Class Required,iOS 13.2.1
+Minimum OS Class Required,iOS 13.2.2
+Minimum OS Class Required,iPadOS 13.2.2
+Minimum OS Class Required,iPadOS 13.2.3
+Minimum OS Class Required,iOS 13.2.3
+Minimum OS Class Required,iOS 13.3
+Minimum OS Class Required,iPadOS 13.3
+Minimum OS Class Required,iOS 13.3.1
+Minimum OS Class Required,iPadOS 13.3.1
+Minimum OS Class Required,iOS 13.4
+Minimum OS Class Required,iPadOS 13.4
+Minimum OS Class Required,iPadOS 13.4.1
+Minimum OS Class Required,iOS 13.4.1
+Minimum OS Class Required,iOS 14
+Minimum OS Class Required,iPadOS 14
+Minimum OS Class Required,visionOS 1.0
+Minimum OS Class Required,visionOS 1.1
+Minimum Supported System,260 ST
+Minimum Supported System,520 ST
+Minimum Supported System,1040 ST
+Minimum Supported System,STE
+Minimum Supported System,TT
+Minimum Supported System,Falcon
+Minimum Supported System,GS ROM version 00
+Minimum Supported System,GS ROM version 01
+Minimum Supported System,GS ROM version 3
+Minimum Supported System,Model I
+Minimum Supported System,Model III
+Minimum Supported System,Model 4
+Minimum Supported System,Color Computer 1
+Minimum Supported System,Color Computer 2
+Minimum Supported System,Color Computer 3
+Minimum Supported System,464
+Minimum Supported System,664
+Minimum Supported System,6128
+Minimum Supported System,464 Plus
+Minimum Supported System,6128 Plus
+Minimum Supported System,MSX 1
+Minimum Supported System,MSX 2
+Minimum Supported System,MSX2+
+Minimum Supported System,MSX turbo R
+Minimum Supported System,A
+Minimum Supported System,B
+Minimum Supported System,B+
+Minimum Supported System,Master
+Minimum Supported System,PC-6001
+Minimum Supported System,PC-6001 Mk II/PC-6601
+Minimum Supported System,PC-6001 Mk II SR/PC-6601 SR
+Minimum Supported System,PC-8801
+Minimum Supported System,PC-8801mkII
+Minimum Supported System,PC-8801mkIISR/FR/MR
+Minimum Supported System,PC-8801mkIITR
+Minimum Supported System,PC-8801mkIIFH
+Minimum Supported System,PC-8801mkIIMH
+Minimum Supported System,PC-8801FA/MA
+Minimum Supported System,PC-88 VA
+Minimum Supported System,PC-88 VA2/VA3
+Minimum Supported System,PC-8801 MC
+Minimum Supported System,PC-9801
+Minimum Supported System,PC-9801E/F/M
+Minimum Supported System,PC-9801VM/VX
+Minimum Supported System,PC-9801RA/RS/RX/ES/EX/DA(/U)/DS(/U)/DX(/U)/FA(/U)/FS(/U)/FX(/U)
+Minimum Supported System,PC-9801BA
+Minimum Supported System,PC-9821Ap
+Minimum Supported System,Towns I
+Minimum Supported System,Towns II
+Minimum Supported System,x86-64 [OBSOLETE]
+Minimum Supported System,Alice 32
+Minimum Supported System,Alice 90
+Minimum Supported System,Microbee 32
+Minimum Supported System,Microbee 32IC
+Minimum Supported System,Microbee 128
+Minimum Supported System,PC-8001
+Minimum Supported System,PC-8001mkII
+Minimum Supported System,PC-8001mkIISR
+Minimum Supported System,TI-99/4
+Minimum Supported System,TI-99/4a
+Minimum Supported System,Sidekick 3 (Hiptop3)
+Minimum Supported System,Model 1
+Minimum Supported System,Model 2
+Supported Systems/Models,Atari 400/800 Series
+Supported Systems/Models,Atari XL Series
+Supported Systems/Models,Atari XE Series
+Supported Systems/Models,SV-318
+Supported Systems/Models,SV-328
+Supported Systems/Models,5th Generation
+Supported Systems/Models,Pasopia 7
+Supported Systems/Models,5700 Series
+Supported Systems/Models,5800 Series
+Supported Systems/Models,6200 Series
+Supported Systems/Models,6500 Series
+Supported Systems/Models,6700 Series
+Supported Systems/Models,7100 Series
+Supported Systems/Models,7200 Series
+Supported Systems/Models,7500 Series
+Supported Systems/Models,7700 Series
+Supported Systems/Models,8100 Series
+Supported Systems/Models,8200 Series
+Supported Systems/Models,8300 Series
+Supported Systems/Models,8500 Series
+Supported Systems/Models,8700 Series
+Supported Systems/Models,8800 Series
+Supported Systems/Models,8900 Series
+Supported Systems/Models,9000 Series
+Supported Systems/Models,9300 Series
+Supported Systems/Models,9100 Series
+Supported Systems/Models,9500 Series
+Supported Systems/Models,9600 Series
+Supported Systems/Models,9700 Series
+Supported Systems/Models,9800 Series
+Supported Systems/Models,9900 Series
+Supported Systems/Models,BlackBerry PlayBook
+Supported Systems/Models,Blackberry 10 Series
+Supported Systems/Models,Oric-1
+Supported Systems/Models,Oric Atmos
+Supported Systems/Models,MO5
+Supported Systems/Models,MO6
+Supported Systems/Models,TO7
+Supported Systems/Models,TO7/70
+Supported Systems/Models,TO8
+Supported Systems/Models,TO9
+Supported Systems/Models,TO9+
+Supported Systems/Models,Sega Mega Play
+Supported Systems/Models,Sega NAOMI GD-ROM System
+Supported Systems/Models,Sega NAOMI 2
+Supported Systems/Models,Sega Mega Tech
+Supported Systems/Models,Atari (Other)
+Supported Systems/Models,Sega NAOMI 2 GD-ROM System
+Supported Systems/Models,Atari System 2
+Supported Systems/Models,Atari System 1
+Supported Systems/Models,Capcom CP System II (CPS2)
+Supported Systems/Models,Capcom CP System III (CPS3)
+Supported Systems/Models,Sega ST-V
+Supported Systems/Models,Atari G1
+Supported Systems/Models,Sega NAOMI
+Supported Systems/Models,Capcom (Other)
+Supported Systems/Models,Sega Chihiro
+Supported Systems/Models,Sega Triforce
+Supported Systems/Models,Sammy Atomiswave
+Supported Systems/Models,Data East DECO Cassette System
+Supported Systems/Models,Data East MLC System
+Supported Systems/Models,SNK NeoGeo MVS
+Supported Systems/Models,SNK Hyper NeoGeo 64
+Supported Systems/Models,Taito F2 System
+Supported Systems/Models,Taito F3 System
+Supported Systems/Models,Taito G-Net
+Supported Systems/Models,Konami Bubble System
+Supported Systems/Models,Kaneko Super Nova System
+Supported Systems/Models,Seta Aleck64
+Supported Systems/Models,Seibu SPI
+Supported Systems/Models,IGS PGM
+Supported Systems/Models,IGS PGM2
+Supported Systems/Models,BrezzaSoft Crystal System
+Supported Systems/Models,Namco System 21
+Supported Systems/Models,Namco (NB-1 / NB-2)
+Supported Systems/Models,Konami M2
+Supported Systems/Models,Nintendo PlayChoice-10
+Supported Systems/Models,Nintendo Super System
+Supported Systems/Models,Nintendo VS. System
+Supported Systems/Models,Taito B System
+Supported Systems/Models,Taito Type X
+Supported Systems/Models,Taito NESiCAxLive
+Supported Systems/Models,Jaleco Mega System 1
+Supported Systems/Models,CAVE CV1000
+Supported Systems/Models,Other
+Supported Systems/Models,ARM
+Supported Systems/Models,ARM64
+Supported Systems/Models,x86 (32-bit)
+Supported Systems/Models,x64 (64-bit)
+Supported Systems/Models,Emerson
+Supported Systems/Models,MPT-03
+Supported Systems/Models,Orbit
+Supported Systems/Models,Ormatu
+Supported Systems/Models,Palladium
+Supported Systems/Models,MZ-80K
+Supported Systems/Models,MZ-80A/1200
+Supported Systems/Models,MZ-700
+Supported Systems/Models,MZ-800
+Supported Systems/Models,MZ-1500
+Supported Systems/Models,MZ-80B
+Supported Systems/Models,MZ-2000
+Supported Systems/Models,MZ-2200
+Supported Systems/Models,MZ-2500
+Supported Systems/Models,Archimedes
+Supported Systems/Models,BBC A3000
+Supported Systems/Models,Acorn A5000
+Supported Systems/Models,RiscPC
+Supported Systems/Models,Basic Master Level 3 (MB-6890)
+Supported Systems/Models,Basic Master Level 3 Mark 2 (MB-6891)
+Supported Systems/Models,Basic Master Level 3 Mark 5 (MB-6892)
+Supported Systems/Models,Ferranti Mark 1
+Supported Systems/Models,IBM 701
+Supported Systems/Models,IBM 360/370
+Supported Systems/Models,IBM 308X
+Supported Systems/Models,EDSAC
+Supported Systems/Models,MIDSAC
+Supported Systems/Models,TX-0
+Supported Systems/Models,DEC PDP-1
+Supported Systems/Models,DEC PDP-7
+Supported Systems/Models,DEC PDP-8
+Supported Systems/Models,DEC PDP-10
+Supported Systems/Models,DEC PDP-11
+Supported Systems/Models,SDS Sigma
+Supported Systems/Models,HP 2000
+Supported Systems/Models,HP 2100
+Supported Systems/Models,HP 3000
+Supported Systems/Models,Data General Nova
+Supported Systems/Models,Oden
+Supported Systems/Models,CDC 6000 series
+Supported Systems/Models,CDC Cyber
+Supported Systems/Models,Imlac PDS-1
+Supported Systems/Models,UNIVAC
+Supported Systems/Models,GE-600 / Honeywell 6000 series
+Supported Systems/Models,Amdahl 470 series
+Supported Systems/Models,Burroughs large systems
+Supported Systems/Models,Telefunken TR-4 series
+Supported Systems/Models,Xerox 500 series
+Supported Systems/Models,Microdata 800/1600/3200
+Supported Systems/Models,COSMAC ELF
+Supported Systems/Models,COSMAC ELF II
+Supported Systems/Models,COSMAC VIP
+Supported Systems/Models,Samsung Z1
+Supported Systems/Models,Samsung Z2
+Supported Systems/Models,Samsung Z3
+Supported Systems/Models,Optimized for Nvidia Shield
+Supported Systems/Models,Tegra 4 processor
+Supported Systems/Models,HP-65
+Supported Systems/Models,HP-25
+Supported Systems/Models,HP-55
+Supported Systems/Models,HP-67
+Supported Systems/Models,HP-97
+Supported Systems/Models,HP-29C
+Supported Systems/Models,HP-19C
+Supported Systems/Models,HP-41C/CV/CX
+Supported Systems/Models,HP-33E/C
+Supported Systems/Models,HP-34C
+Supported Systems/Models,Monroe 1600 series
+Supported Systems/Models,Monroe 1700 series
+Supported Systems/Models,Monroe 1800 series
+Supported Systems/Models,Compucorp 100 series
+Supported Systems/Models,Compucorp 200 series
+Supported Systems/Models,Compucorp 300 series
+Supported Systems/Models,Compucorp 400 series
+Supported Systems/Models,Compucorp 000 series
+Supported Systems/Models,SR-52/56 series
+Supported Systems/Models,TI-57/58/59 series
+Supported Systems/Models,TI-53/55 II series
+Supported Systems/Models,TI-56/55 III series
+Supported Systems/Models,TI-68 series
+Supported Systems/Models,TI-81/82/83/84/85/86 series
+Supported Systems/Models,TI-80/89/92/73 series
+Supported Systems/Models,TI-Nspire series
+Supported Systems/Models,Galaksija
+Supported Systems/Models,Galaksija Plus
+Supported Systems/Models,SWTPC 6800
+Supported Systems/Models,SWTPC 6809
+Supported Systems/Models,VC-4000 / CX-3000
+Supported Systems/Models,1292 Advanced Programmable Video System
+Supported Systems/Models,Database
+Supported Systems/Models,Elektor TV Games Computer
+Supported Systems/Models,Television Computer System
+Supported Systems/Models,Video TV Game
+Supported Systems/Models,MPT-05
+Supported Systems/Models,Heath/Zenith
+Supported Systems/Models,DEC Rainbow
+Supported Systems/Models,Kaypro
+Supported Systems/Models,Osborne
+Supported Systems/Models,North Star
+Supported Systems/Models,Xerox 820
+Supported Systems/Models,Orao / Orao 32
+Supported Systems/Models,Orao MR102
+Supported Systems/Models,Orao 64 / Orao+
+Supported Systems/Models,Pebble / Pebble Steel
+Supported Systems/Models,Pebble Time / Pebble Time Steel
+Supported Systems/Models,Pebble Time Round
+Supported Systems/Models,Pebble 2
+Supported UI Platform,Series 60
+Supported UI Platform,Series 60 2nd Ed
+Supported UI Platform,Series 60 3rd Ed
+Supported UI Platform,Series 60 5th Ed
+Supported UI Platform,Series 80
+Supported UI Platform,Series 90
+Supported UI Platform,UIQ 1.x
+Supported UI Platform,UIQ 2.x
+Supported UI Platform,UIQ 3.x
+Supported Kernels and Libraries,Kanji ROM
+Supported Kernels and Libraries,Kernel 2.0.x
+Supported Kernels and Libraries,Kernel 2.2.x
+Supported Kernels and Libraries,Kernel 2.4.x
+Supported Kernels and Libraries,Kernel 2.6.x
+Supported Languages and Operating Systems,ALGOL
+Supported Languages and Operating Systems,APL
+Supported Languages and Operating Systems,BASIC
+Supported Languages and Operating Systems,BCPL
+Supported Languages and Operating Systems,C
+Supported Languages and Operating Systems,COBOL
+Supported Languages and Operating Systems,FOCAL
+Supported Languages and Operating Systems,Multics
+Supported Languages and Operating Systems,GECOS
+Supported Languages and Operating Systems,Unix
+Supported Languages and Operating Systems,FORTRAN
+Supported Languages and Operating Systems,Orao BASIC v1.2
+Supported Languages and Operating Systems,Orao BASIC v1.3
+Supported Languages and Operating Systems,Pascal
+Supported Languages and Operating Systems,PILOT
+Supported Languages and Operating Systems,PL/I
+Supported Languages and Operating Systems,UCSD p-System
+Technology,ActiveX
+Technology,Adobe AIR
+Technology,ASP
+Technology,Bamboo Dock
+Technology,DHTML
+Technology,Facebook
+Technology,Flash
+Technology,HTML
+Technology,HTML5
+Technology,InstantAction
+Technology,Java
+Technology,JavaScript
+Technology,NaCl (Native Client)
+Technology,Perl
+Technology,PHP
+Technology,Python
+Technology,Ruby
+Technology,Shockwave
+Technology,Silverlight
+Technology,Unity
+Technology,VBScript
+Technology,WebAssembly
+Technology,WebGL
+Memory Expansion Required,Unexpanded
+Memory Expansion Required,3 KB
+Memory Expansion Required,8 KB
+Memory Expansion Required,16 KB
+Memory Expansion Required,32 KB
+Minimum RAM Required,256 B
+Minimum RAM Required,512 B
+Minimum RAM Required,1 KB
+Minimum RAM Required,2 KB
+Minimum RAM Required,3 KB
+Minimum RAM Required,4 KB
+Minimum RAM Required,6 KB
+Minimum RAM Required,7 KB
+Minimum RAM Required,8 KB
+Minimum RAM Required,10 KB
+Minimum RAM Required,12 KB
+Minimum RAM Required,16 KB
+Minimum RAM Required,19 KB
+Minimum RAM Required,20 KB
+Minimum RAM Required,24 KB
+Minimum RAM Required,32 KB
+Minimum RAM Required,36 KB
+Minimum RAM Required,40 KB
+Minimum RAM Required,46 KB
+Minimum RAM Required,48 KB
+Minimum RAM Required,52 KB
+Minimum RAM Required,56 KB
+Minimum RAM Required,64 KB
+Minimum RAM Required,96 KB
+Minimum RAM Required,128 KB
+Minimum RAM Required,192 KB
+Minimum RAM Required,210 KB
+Minimum RAM Required,256 KB
+Minimum RAM Required,384 KB
+Minimum RAM Required,512 KB
+Minimum RAM Required,640 KB
+Minimum RAM Required,768 KB
+Minimum RAM Required,1 MB
+Minimum RAM Required,1.25 MB
+Minimum RAM Required,1.5 MB
+Minimum RAM Required,1.6 MB
+Minimum RAM Required,2 MB
+Minimum RAM Required,2.5 MB
+Minimum RAM Required,3 MB
+Minimum RAM Required,3.5 MB
+Minimum RAM Required,4 MB
+Minimum RAM Required,4.5 MB
+Minimum RAM Required,5 MB
+Minimum RAM Required,6 MB
+Minimum RAM Required,8 MB
+Minimum RAM Required,9 MB
+Minimum RAM Required,10 MB
+Minimum RAM Required,11 MB
+Minimum RAM Required,12 MB
+Minimum RAM Required,16 MB
+Minimum RAM Required,20 MB
+Minimum RAM Required,24 MB
+Minimum RAM Required,30 MB
+Minimum RAM Required,32 MB
+Minimum RAM Required,48 MB
+Minimum RAM Required,64 MB
+Minimum RAM Required,96 MB
+Minimum RAM Required,128 MB
+Minimum RAM Required,160 MB
+Minimum RAM Required,192 MB
+Minimum RAM Required,256 MB
+Minimum RAM Required,320 MB
+Minimum RAM Required,384 MB
+Minimum RAM Required,512 MB
+Minimum RAM Required,768 MB
+Minimum RAM Required,1 GB
+Minimum RAM Required,1.5 GB
+Minimum RAM Required,2 GB
+Minimum RAM Required,3 GB
+Minimum RAM Required,4 GB
+Minimum RAM Required,5 GB
+Minimum RAM Required,6 GB
+Minimum RAM Required,8 GB
+Minimum RAM Required,9 GB
+Minimum RAM Required,10 GB
+Minimum RAM Required,12 GB
+Minimum RAM Required,16 GB
+System Card,Arcade Card Compatible
+System Card,Arcade Card Required
+System Card,CD System Card 2.0
+System Card,Games Express Card
+System Card,Super System Card
+Minimum MSCDEX Required,2.1
+Minimum MSCDEX Required,2.2
+Minimum MSCDEX Required,2.21
+Minimum MSCDEX Required,2.22
+Minimum MSCDEX Required,2.23
+Minimum DirectX Version Required,DirectX 2
+Minimum DirectX Version Required,DirectX 3
+Minimum DirectX Version Required,DirectX 3.0a
+Minimum DirectX Version Required,DirectX 5
+Minimum DirectX Version Required,DirectX 5.2
+Minimum DirectX Version Required,DirectX 6
+Minimum DirectX Version Required,DirectX 6.1
+Minimum DirectX Version Required,DirectX 7.0
+Minimum DirectX Version Required,DirectX 7.0a
+Minimum DirectX Version Required,DirectX 7.1
+Minimum DirectX Version Required,DirectX 8.0
+Minimum DirectX Version Required,DirectX 8.0a
+Minimum DirectX Version Required,DirectX 8.1
+Minimum DirectX Version Required,DirectX 8.1a
+Minimum DirectX Version Required,DirectX 8.1b
+Minimum DirectX Version Required,DirectX 9.0
+Minimum DirectX Version Required,DirectX 9.0a
+Minimum DirectX Version Required,DirectX 9.0b
+Minimum DirectX Version Required,DirectX 9.0c
+Minimum DirectX Version Required,DirectX 10
+Minimum DirectX Version Required,DirectX 10.1
+Minimum DirectX Version Required,DirectX 11
+Minimum DirectX Version Required,DirectX 11.1
+Minimum DirectX Version Required,DirectX 11.2
+Minimum DirectX Version Required,DirectX 11.3
+Minimum DirectX Version Required,DirectX 12
+Drivers/APIs Supported,DirectDraw
+Drivers/APIs Supported,Direct3D
+Drivers/APIs Supported,S3 MeTaL
+Drivers/APIs Supported,Glide
+Drivers/APIs Supported,Hardware TNL
+Drivers/APIs Supported,OpenGL
+Drivers/APIs Supported,Vulkan
+Drivers/APIs Supported,Pixel Shader 1.0
+Drivers/APIs Supported,Pixel Shader 1.1
+Drivers/APIs Supported,Pixel Shader 1.2
+Drivers/APIs Supported,Pixel Shader 1.3
+Drivers/APIs Supported,Pixel Shader 1.4
+Drivers/APIs Supported,Pixel Shader 2.0
+Drivers/APIs Supported,Pixel Shader 3.0
+Drivers/APIs Supported,Pixel Shader 4.0
+Drivers/APIs Supported,Pixel Shader 4.1
+Drivers/APIs Supported,Pixel Shader 5.0
+Drivers/APIs Supported,Pixel Shader 5.1
+Drivers/APIs Supported,Vertex Shader 1.0
+Drivers/APIs Supported,Vertex Shader 1.1
+Drivers/APIs Supported,Vertex Shader 2.0
+Drivers/APIs Supported,Vertex Shader 3.0
+Drivers/APIs Supported,Vertex Shader 4.0
+Drivers/APIs Supported,Vertex Shader 4.1
+Drivers/APIs Supported,Vertex Shader 5.0
+Drivers/APIs Supported,Vertex Shader 5.1
+Drivers/APIs Supported,SVGALib
+Drivers/APIs Supported,X11R5
+Drivers/APIs Supported,X11R6
+Drivers/APIs Supported,Warp3D
+Media Type,"3"" Floppy Disk"
+Media Type,"3.5"" Floppy Disk"
+Media Type,"5.25"" Floppy Disk"
+Media Type,"8"" Floppy Disk"
+Media Type,Action Figure
+Media Type,Bee Card
+Media Type,Blu-Ray Disc
+Media Type,Browser
+Media Type,Built-in
+Media Type,Cartridge
+Media Type,Cassette Tape
+Media Type,CD-DA
+Media Type,CD-ROM
+Media Type,Digital Data Pack
+Media Type,Extension Cartridges/Keys
+Media Type,Famicom Disk System
+Media Type,Double-sided Disk
+Media Type,Download
+Media Type,Download (Viditel)
+Media Type,DVD-ROM
+Media Type,Floppy Disk
+Media Type,Game Card
+Media Type,GD-ROM
+Media Type,LD-ROM²
+Media Type,Laser Disc
+Media Type,Magnetic Card
+Media Type,Mega LD
+Media Type,Mega Cartridge
+Media Type,Microdrive
+Media Type,MyCard
+Media Type,MMC Card
+Media Type,Nintendo 3DS Game Card
+Media Type,Nintendo DSi Game Card
+Media Type,Quick Disk
+Media Type,Paper Tape / Punch Card
+Media Type,PCMCIA Card
+Media Type,Portfolio Photo CD
+Media Type,PS Vita Card
+Media Type,SD Card
+Media Type,Sega Card
+Media Type,Single-sided Disk
+Media Type,SmartMedia Card
+Media Type,Soft Card
+Media Type,Springboard Module
+Media Type,Type-in
+Media Type,SuperGrafx
+Media Type,PCjr Cartridge
+Media Type,UHD Blu-ray Disc
+Media Type,UMD
+Media Type,USB Flash Drive
+Media Type,VHD
+Media Type,Vinyl Record
+Media Type,Wii Optical Disc
+Media Type,Wii U Optical Disc
+Minimum CD-ROM Drive Speed Required,1X (150 KB/s)
+Minimum CD-ROM Drive Speed Required,2X (300 KB/s)
+Minimum CD-ROM Drive Speed Required,4X (600 KB/s)
+Minimum CD-ROM Drive Speed Required,6X (900 KB/s)
+Minimum CD-ROM Drive Speed Required,8X (1.2 MB/s)
+Minimum CD-ROM Drive Speed Required,10X (1.5 MB/s)
+Minimum CD-ROM Drive Speed Required,12X (1.8 MB/s)
+Minimum CD-ROM Drive Speed Required,16X (2.4 MB/s)
+Minimum CD-ROM Drive Speed Required,20X (3.0 MB/s)
+Minimum CD-ROM Drive Speed Required,24X (3.6 MB/s)
+Minimum CD-ROM Drive Speed Required,32X (4.8 MB/s)
+Minimum CD-ROM Drive Speed Required,40X (6.0 MB/s)
+Minimum DVD-ROM Drive Speed Required,1X (1.32 MB/s)
+Minimum DVD-ROM Drive Speed Required,2X (2.64 MB/s)
+Minimum DVD-ROM Drive Speed Required,4X (5.28 MB/s)
+Minimum DVD-ROM Drive Speed Required,6X (7.92 MB/s)
+Minimum DVD-ROM Drive Speed Required,8X (10.56 MB/s)
+Minimum DVD-ROM Drive Speed Required,12X (15.84 MB/s)
+Minimum DVD-ROM Drive Speed Required,16X (21.12 MB/s)
+Minimum DVD-ROM Drive Speed Required,18X (23.76 MB/s)
+Minimum DVD-ROM Drive Speed Required,20X (26.40 MB/s)
+Minimum DVD-ROM Drive Speed Required,24X (31.68 MB/s)
+Minimum DVD-ROM Drive Speed Required,32X (42.24 MB/s)
+Minimum DVD-ROM Drive Speed Required,54X (71.28 MB/s)
+ROM Size on Cart,3K
+ROM Size on Cart,4K
+ROM Size on Cart,8K
+ROM Size on Cart,10K
+ROM Size on Cart,12K
+ROM Size on Cart,16K
+ROM Size on Cart,24K
+ROM Size on Cart,29K
+ROM Size on Cart,32K
+ROM Size on Cart,64K
+ROM Size on Cart,Unknown
+Minimum Video Memory Required,48 KB
+Minimum Video Memory Required,256 KB
+Minimum Video Memory Required,512 KB
+Minimum Video Memory Required,1 MB
+Minimum Video Memory Required,2 MB
+Minimum Video Memory Required,4 MB
+Minimum Video Memory Required,6 MB
+Minimum Video Memory Required,8 MB
+Minimum Video Memory Required,12 MB
+Minimum Video Memory Required,16 MB
+Minimum Video Memory Required,32 MB
+Minimum Video Memory Required,64 MB
+Minimum Video Memory Required,128 MB
+Minimum Video Memory Required,256 MB
+Minimum Video Memory Required,320 MB
+Minimum Video Memory Required,512 MB
+Minimum Video Memory Required,768 MB
+Minimum Video Memory Required,1 GB
+Minimum Video Memory Required,2 GB
+Minimum Video Memory Required,3 GB
+Minimum Video Memory Required,4 GB
+Minimum Video Memory Required,6 GB
+Minimum Video Memory Required,8 GB
+3D Graphics Cards / Accelerators Supported,3dfx (Voodoo / Voodoo Rush)
+3D Graphics Cards / Accelerators Supported,3dfx (Voodoo 2 / Voodoo Banshee)
+3D Graphics Cards / Accelerators Supported,3dfx (Velocity 100/200 / Voodoo 3)
+3D Graphics Cards / Accelerators Supported,3dfx (Voodoo 4 / Voodoo 5)
+3D Graphics Cards / Accelerators Supported,3Dlabs (GLINT series)
+3D Graphics Cards / Accelerators Supported,3Dlabs (Permedia)
+3D Graphics Cards / Accelerators Supported,3Dlabs (Permedia 2)
+3D Graphics Cards / Accelerators Supported,3Dlabs (Permedia 3)
+3D Graphics Cards / Accelerators Supported,ATI (3D Rage / mach64 GT/VT/VT2)
+3D Graphics Cards / Accelerators Supported,ATI (3D Rage II series)
+3D Graphics Cards / Accelerators Supported,ATI (3D Rage Pro)
+3D Graphics Cards / Accelerators Supported,ATI (Rage 128)
+3D Graphics Cards / Accelerators Supported,ATI (Rage 128 Pro)
+3D Graphics Cards / Accelerators Supported,ATI (Radeon series)
+3D Graphics Cards / Accelerators Supported,ATI (Radeon 7000 series)
+3D Graphics Cards / Accelerators Supported,Matrox (MGA Millennium)
+3D Graphics Cards / Accelerators Supported,Matrox (Mystique)
+3D Graphics Cards / Accelerators Supported,Matrox (Millennium II)
+3D Graphics Cards / Accelerators Supported,Matrox (Mystique 220)
+3D Graphics Cards / Accelerators Supported,Matrox (Productiva G100)
+3D Graphics Cards / Accelerators Supported,Matrox (Millennium G200)
+3D Graphics Cards / Accelerators Supported,Matrox (Millennium G400 series)
+3D Graphics Cards / Accelerators Supported,Matrox (Millennium G450)
+3D Graphics Cards / Accelerators Supported,Nvidia (NV1)
+3D Graphics Cards / Accelerators Supported,Nvidia (Riva 128)
+3D Graphics Cards / Accelerators Supported,Nvidia (Riva 128ZX)
+3D Graphics Cards / Accelerators Supported,Nvidia (Riva TNT)
+3D Graphics Cards / Accelerators Supported,Nvidia (Riva TNT2 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 256 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 2 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 3 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 4 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce FX series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 6 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 10 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 16 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 20 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 30 series)
+3D Graphics Cards / Accelerators Supported,Nvidia (GeForce 700 series)
+3D Graphics Cards / Accelerators Supported,PowerVR (Apocalypse 3Dx (PCX2))
+3D Graphics Cards / Accelerators Supported,PowerVR (Matrox m3D (PCX2))
+3D Graphics Cards / Accelerators Supported,PowerVR (Kyro / Kyro II)
+3D Graphics Cards / Accelerators Supported,Rendition (Vérité V1000)
+3D Graphics Cards / Accelerators Supported,Rendition (Vérité V2100)
+3D Graphics Cards / Accelerators Supported,Rendition (Vérité V2200)
+3D Graphics Cards / Accelerators Supported,S3 (ViRGE)
+3D Graphics Cards / Accelerators Supported,S3 (ViRGE/VX)
+3D Graphics Cards / Accelerators Supported,S3 (ViRGE/DX)
+3D Graphics Cards / Accelerators Supported,S3 (ViRGE/GX)
+3D Graphics Cards / Accelerators Supported,S3 (ViRGE/GX2)
+3D Graphics Cards / Accelerators Supported,S3 (Trio3D)
+3D Graphics Cards / Accelerators Supported,S3 (Trio3D/2X)
+3D Graphics Cards / Accelerators Supported,S3 (Savage3D)
+Video Modes Supported,OCS/ECS
+Video Modes Supported,AGA
+Video Modes Supported,Other
+Video Modes Supported,Lo-Res
+Video Modes Supported,Hi-Res
+Video Modes Supported,Double Hi-Res
+Video Modes Supported,GTIA Required
+Video Modes Supported,256 Colors Required
+Video Modes Supported,Amstrad
+Video Modes Supported,CGA
+Video Modes Supported,CGA (Tweaked)
+Video Modes Supported,CGA Composite (16 colors)
+Video Modes Supported,AT&T PC 6300
+Video Modes Supported,EGA
+Video Modes Supported,EGA (Tweaked)
+Video Modes Supported,Hercules
+Video Modes Supported,Hercules InColor
+Video Modes Supported,MCGA
+Video Modes Supported,MCGA 4-color
+Video Modes Supported,SuperVGA
+Video Modes Supported,Tandy / PCjr
+Video Modes Supported,VESA
+Video Modes Supported,VGA
+Video Modes Supported,VGA (Tweaked)
+Video Modes Supported,480i
+Video Modes Supported,Progressive Scan (480p)
+Video Modes Supported,HDTV 720p
+Video Modes Supported,HDTV 1080i
+Video Modes Supported,HDTV 1080p
+Video Modes Supported,Widescreen (16 x 9)
+Video Modes Supported,4K UHD (3840×2160)
+Video Modes Supported,8K UHD (7680 × 4320)
+Video Modes Supported,PAL 50Hz
+Video Modes Supported,PAL 60Hz
+Video Modes Supported,3D Compatible
+Video Modes Supported,HD Video Output
+Video Modes Supported,Performance / Fidelity mode switch
+Video Modes Supported,Black and white
+Video Modes Supported,Color
+Video Modes Supported,Raster
+Video Modes Supported,Vector
+Video Modes Supported,Multiscreen
+Video Modes Supported,Full screen
+Video Modes Supported,Window
+Video Modes Supported,0
+Video Modes Supported,1
+Video Modes Supported,2
+Video Modes Supported,3
+Video Modes Supported,4
+Video Modes Supported,5
+Video Modes Supported,6
+Video Modes Supported,7
+Video Modes Supported,N mode
+Video Modes Supported,V1 mode
+Video Modes Supported,V2 mode
+Video Modes Supported,V3 mode
+Video Modes Supported,dk'tronics 4K Graphics ROM
+Video Modes Supported,QS CHRS Board
+Video Modes Supported,WRX
+Video Modes Supported,Cromemco TV Dazzler
+Video Modes Supported,VDM-1
+Video Modes Supported,MERLIN
+Video Modes Supported,PolyMorphic VTI
+Video Modes Supported,Programmable Character Generator
+Video Modes Supported,15 kHz
+Video Modes Supported,24 kHz
+Video Modes Supported,31 kHz
+Video Modes Supported,Projector
+Full-screen Options Supported,Resolution Switch
+Full-screen Options Supported,Stretch-to-Fit
+Screen Orientation,Landscape
+Screen Orientation,Portrait
+Video Resolutions Supported,Customizable
+Video Resolutions Supported,40×24
+Video Resolutions Supported,40×48
+Video Resolutions Supported,80×48
+Video Resolutions Supported,80×192
+Video Resolutions Supported,96×64
+Video Resolutions Supported,160×96
+Video Resolutions Supported,160×100
+Video Resolutions Supported,160×102
+Video Resolutions Supported,160×128
+Video Resolutions Supported,160×144
+Video Resolutions Supported,160×152
+Video Resolutions Supported,160×160
+Video Resolutions Supported,160×192
+Video Resolutions Supported,160×200
+Video Resolutions Supported,160×256
+Video Resolutions Supported,220×176
+Video Resolutions Supported,224×144
+Video Resolutions Supported,240×160
+Video Resolutions Supported,240×240
+Video Resolutions Supported,240×320
+Video Resolutions Supported,256×128
+Video Resolutions Supported,256×192
+Video Resolutions Supported,256×208
+Video Resolutions Supported,256×212
+Video Resolutions Supported,256×224
+Video Resolutions Supported,256×256
+Video Resolutions Supported,272×340
+Video Resolutions Supported,280×192
+Video Resolutions Supported,312×390
+Video Resolutions Supported,320×192
+Video Resolutions Supported,320×200
+Video Resolutions Supported,320×224
+Video Resolutions Supported,320×240
+Video Resolutions Supported,320×256
+Video Resolutions Supported,320×320
+Video Resolutions Supported,320x350
+Video Resolutions Supported,320×400
+Video Resolutions Supported,320×448
+Video Resolutions Supported,320×480
+Video Resolutions Supported,320×512
+Video Resolutions Supported,360x200
+Video Resolutions Supported,360x240
+Video Resolutions Supported,360x350
+Video Resolutions Supported,360x360
+Video Resolutions Supported,360x400
+Video Resolutions Supported,360x480
+Video Resolutions Supported,400×240
+Video Resolutions Supported,400×300
+Video Resolutions Supported,480×272
+Video Resolutions Supported,480×360
+Video Resolutions Supported,480×480
+Video Resolutions Supported,480×640
+Video Resolutions Supported,480×800
+Video Resolutions Supported,512×212
+Video Resolutions Supported,512x342
+Video Resolutions Supported,512×384
+Video Resolutions Supported,640×200
+Video Resolutions Supported,640×256
+Video Resolutions Supported,640×350
+Video Resolutions Supported,640×400
+Video Resolutions Supported,640×448
+Video Resolutions Supported,640×480
+Video Resolutions Supported,640×512
+Video Resolutions Supported,720×348
+Video Resolutions Supported,720×480
+Video Resolutions Supported,720×576
+Video Resolutions Supported,800×240
+Video Resolutions Supported,800×600
+Video Resolutions Supported,848x480
+Video Resolutions Supported,856x480
+Video Resolutions Supported,960×544
+Video Resolutions Supported,960×600
+Video Resolutions Supported,960x720
+Video Resolutions Supported,1024×600
+Video Resolutions Supported,1024×768
+Video Resolutions Supported,1152x648
+Video Resolutions Supported,1152×864
+Video Resolutions Supported,1176×664
+Video Resolutions Supported,1280×720
+Video Resolutions Supported,1280×768
+Video Resolutions Supported,1280×800
+Video Resolutions Supported,1280×900
+Video Resolutions Supported,1280×960
+Video Resolutions Supported,1280×1024
+Video Resolutions Supported,1360×768
+Video Resolutions Supported,1360x1024
+Video Resolutions Supported,1366×768
+Video Resolutions Supported,1400×1050
+Video Resolutions Supported,1440×900
+Video Resolutions Supported,1440×1080
+Video Resolutions Supported,1600×900
+Video Resolutions Supported,1600×1024
+Video Resolutions Supported,1600×1200
+Video Resolutions Supported,1680×1050
+Video Resolutions Supported,1768×992
+Video Resolutions Supported,1776x1000
+Video Resolutions Supported,1786x1014
+Video Resolutions Supported,1920×1080
+Video Resolutions Supported,1920×1200
+Video Resolutions Supported,1920×1440
+Video Resolutions Supported,2048x1152
+Video Resolutions Supported,2048×1536
+Video Resolutions Supported,2560x1080
+Video Resolutions Supported,2560×1440
+Video Resolutions Supported,2560×1600
+Video Resolutions Supported,2560×2048
+Video Resolutions Supported,3200×2048
+Video Resolutions Supported,3200×2400
+Video Resolutions Supported,3840×2160
+Video Resolutions Supported,3840×2400
+Video Resolutions Supported,4040×1024
+Video Resolutions Supported,4096x2160
+Video Resolutions Supported,4096×3072
+Video Resolutions Supported,5120×3200
+Video Resolutions Supported,5120×4096
+Video Resolutions Supported,6400×4096
+Video Resolutions Supported,6400×4800
+Video Resolutions Supported,7680×4800
+Text Modes Supported,20×12
+Text Modes Supported,20×24
+Text Modes Supported,20×32
+Text Modes Supported,22×23
+Text Modes Supported,32×16
+Text Modes Supported,32×32
+Text Modes Supported,40×24
+Text Modes Supported,40×25
+Text Modes Supported,40×32
+Text Modes Supported,64×16
+Text Modes Supported,80×24
+Text Modes Supported,80×25
+Text Modes Supported,80×32
+Text Modes Supported,80×43
+Text Modes Supported,80×50
+Color Depth,1-bit (monochrome)
+Color Depth,2-bit (4 colors)
+Color Depth,2-bit (4 greyscales)
+Color Depth,3-bit (8 colors)
+Color Depth,4-bit (16 colors)
+Color Depth,4-bit (16 greyscales)
+Color Depth,6-bit (64 colors)
+Color Depth,8-bit (256 colors)
+Color Depth,9-bit (512 colors)
+Color Depth,"12-bit (4,096 colors)"
+Color Depth,"15-bit (32,768 colors)"
+Color Depth,16-bit (High Color)
+Color Depth,24-bit (True Color)
+Color Depth,32-bit (True Color)
+Color Depth,HDR (High Dynamic Range)
+Built-in Display,CRT (Cathode-ray Tube)
+Built-in Display,LCD (Liquid-crystal Display)
+Built-in Display,LED (Light-emitting Diode)
+Built-in Display,PDP (Plasma Display Panel)
+Built-in Display,TFT (Thin-film Transistor) LCD
+Built-in Display,VFD (Vacuum Fluorescent Display)
+Sound Devices Supported,88-MU1
+Sound Devices Supported,Adlib
+Sound Devices Supported,Adlib Gold
+Sound Devices Supported,AHI
+Sound Devices Supported,ALF Music Card
+Sound Devices Supported,alphaSyntauri
+Sound Devices Supported,ALSA Compatible sound card
+Sound Devices Supported,AM Radio
+Sound Devices Supported,ARIA Chipset
+Sound Devices Supported,Casio CZ-101
+Sound Devices Supported,Covox Sound Master
+Sound Devices Supported,Covox Sound Master Plus
+Sound Devices Supported,Covox Sound Master II
+Sound Devices Supported,Covox Speech Thing
+Sound Devices Supported,Cricket
+Sound Devices Supported,DA Converter
+Sound Devices Supported,DirectX Compatible Sound Card
+Sound Devices Supported,Disney Sound Source
+Sound Devices Supported,DMA Sound
+Sound Devices Supported,Ensoniq Soundscape
+Sound Devices Supported,Echo II
+Sound Devices Supported,ESS AudioDrive
+Sound Devices Supported,FM Towns Sound
+Sound Devices Supported,Game Blaster (CMS)
+Sound Devices Supported,General MIDI
+Sound Devices Supported,Generic LPT DAC
+Sound Devices Supported,Generic mono-timbral MIDI Device
+Sound Devices Supported,Generic MPU-401 MIDI devices
+Sound Devices Supported,Generic multi-timbral MIDI Device
+Sound Devices Supported,Gravis Ultrasound / ACE
+Sound Devices Supported,Gravis Ultrasound MAX
+Sound Devices Supported,I/O Magic Tempo
+Sound Devices Supported,IBM Music Feature Card
+Sound Devices Supported,IBM PCjr Speech Attachment
+Sound Devices Supported,Innovation Sound Standard
+Sound Devices Supported,Intersound MDO
+Sound Devices Supported,MBX Support
+Sound Devices Supported,Microsoft Sound System
+Sound Devices Supported,Mockingboard A
+Sound Devices Supported,Mockingboard B
+Sound Devices Supported,Mockingboard C
+Sound Devices Supported,Mockingboard D
+Sound Devices Supported,Mockingboard Sound I
+Sound Devices Supported,Mockingboard Sound II
+Sound Devices Supported,Mockingboard Sound/Speech I
+Sound Devices Supported,MSound
+Sound Devices Supported,OSS Compatible sound card
+Sound Devices Supported,Paula
+Sound Devices Supported,PC-9801-26
+Sound Devices Supported,PC-9801-86
+Sound Devices Supported,PC Speaker
+Sound Devices Supported,PC Speaker (Tweaked)
+Sound Devices Supported,Pro Audio Spectrum
+Sound Devices Supported,Pro Audio Spectrum Plus
+Sound Devices Supported,Pro Audio Spectrum 16
+Sound Devices Supported,PS/1 Audio Card
+Sound Devices Supported,PS/2 Speech Adapter
+Sound Devices Supported,QS Sound Board
+Sound Devices Supported,Reveal FX/32
+Sound Devices Supported,Roland MT-32 (and LAPC-I)
+Sound Devices Supported,Roland RAP-10
+Sound Devices Supported,Roland Sound Canvas
+Sound Devices Supported,Sound Blaster
+Sound Devices Supported,Sound Blaster 16
+Sound Devices Supported,Sound Blaster AWE32
+Sound Devices Supported,Sound Blaster Pro
+Sound Devices Supported,Sound Galaxy NX Pro 16
+Sound Devices Supported,Sound Manager
+Sound Devices Supported,Soundbox
+Sound Devices Supported,Speech Synthesizer Support
+Sound Devices Supported,Speech Thing
+Sound Devices Supported,SuperSonic stereo card
+Sound Devices Supported,Tandy / PCjr
+Sound Devices Supported,Tandy DAC (TL/SL)
+Sound Devices Supported,The Entertainer
+Sound Devices Supported,The Mountain Music System
+Sound Devices Supported,The Voice
+Sound Devices Supported,Thunderboard
+Sound Devices Supported,Toptek Golden 16
+Sound Devices Supported,VoiceMaster
+Sound Devices Supported,WaveJammer (PCMCIA)
+Sound Devices Supported,Windows Sound System
+Sound Devices Supported,Yamaha YM2203 chip
+Sound Devices Supported,Yamaha YM2608 chip
+Sound Devices Supported,YM2413
+Sound Capabilities,A3D
+Sound Capabilities,Custom Soundtracks
+Sound Capabilities,DirectSound3D
+Sound Capabilities,Dolby Digital
+Sound Capabilities,Dolby Digital 5.1
+Sound Capabilities,Dolby Digital 7.1
+Sound Capabilities,Dolby Pro Logic II
+Sound Capabilities,Dolby Surround
+Sound Capabilities,Dolby Surround Pro Logic
+Sound Capabilities,DTS
+Sound Capabilities,DTS-HD
+Sound Capabilities,EAX
+Sound Capabilities,EAX Advanced HD
+Sound Capabilities,Mono
+Sound Capabilities,OpenAL
+Sound Capabilities,Stereo
+Sound Capabilities,THX
+Sound Capabilities,Built-in speaker
+Sound Capabilities,General Instrument AY-3-8910
+Input Devices Required,Accelerometer/Gyroscope
+Input Devices Required,Board Controller Required
+Input Devices Required,Camera
+Input Devices Required,1-4 Echo Buttons Required
+Input Devices Required,2-4 Echo Buttons Required
+Input Devices Required,Gamepad
+Input Devices Required,Joystick
+Input Devices Required,Keyboard
+Input Devices Required,Kinect Required
+Input Devices Required,Microphone
+Input Devices Required,Mouse
+Input Devices Required,Move Motion Controller Required
+Input Devices Required,Move Navigation Controller Required
+Input Devices Required,Remote Controller
+Input Devices Required,Smartphone
+Input Devices Required,VR Helmet/Headset
+Input Devices Required,uDraw GameTablet
+Input Devices Required,Wii Balance Board
+Input Devices Required,Wonderbook Required
+Input Devices Supported/Optional,1 button
+Input Devices Supported/Optional,2 buttons
+Input Devices Supported/Optional,3 buttons
+Input Devices Supported/Optional,4 buttons
+Input Devices Supported/Optional,5 buttons
+Input Devices Supported/Optional,6 buttons
+Input Devices Supported/Optional,7 buttons
+Input Devices Supported/Optional,8 buttons
+Input Devices Supported/Optional,9 buttons
+Input Devices Supported/Optional,3D Control Pad
+Input Devices Supported/Optional,6-button Controller
+Input Devices Supported/Optional,6-Button Controller
+Input Devices Supported/Optional,Accelerometer/Gyroscope
+Input Devices Supported/Optional,Active Life Mat
+Input Devices Supported/Optional,Activator
+Input Devices Supported/Optional,Alternate controller supported
+Input Devices Supported/Optional,Arcade Stick
+Input Devices Supported/Optional,ASCII Grip
+Input Devices Supported/Optional,ASCII Grip V One-Handed Controller
+Input Devices Supported/Optional,Batter Up
+Input Devices Supported/Optional,Beatmania Controller
+Input Devices Supported/Optional,Beatmania IIDX Controller
+Input Devices Supported/Optional,Boomerang
+Input Devices Supported/Optional,Booster Grip
+Input Devices Supported/Optional,Buzzers (wired)
+Input Devices Supported/Optional,Buzzers (wireless)
+Input Devices Supported/Optional,Camera
+Input Devices Supported/Optional,Classic Controller
+Input Devices Supported/Optional,Communicator Headset
+Input Devices Supported/Optional,Controller Pad
+Input Devices Supported/Optional,Custom
+Input Devices Supported/Optional,Cyberbike
+Input Devices Supported/Optional,Dance Pad
+Input Devices Supported/Optional,Digital Crown
+Input Devices Supported/Optional,DJ Station Pro
+Input Devices Supported/Optional,DK Bongos
+Input Devices Supported/Optional,Driving Controller
+Input Devices Supported/Optional,DrumMania Controller
+Input Devices Supported/Optional,Drum Controller - 3 Pads
+Input Devices Supported/Optional,Drum Controller - 4 Pads
+Input Devices Supported/Optional,DS Microphone/Headset
+Input Devices Supported/Optional,Dual Analog Sticks
+Input Devices Supported/Optional,Echo Button
+Input Devices Supported/Optional,Expansion Cymbals
+Input Devices Supported/Optional,Fighting Stick PS
+Input Devices Supported/Optional,Fishing Controller
+Input Devices Supported/Optional,Fleshlight VStroker
+Input Devices Supported/Optional,FlightStick Pro
+Input Devices Supported/Optional,Flight Stick
+Input Devices Supported/Optional,Foot Craz
+Input Devices Supported/Optional,Front Panel
+Input Devices Supported/Optional,Game Boy Advance Compatible
+Input Devices Supported/Optional,GameCube Microphone
+Input Devices Supported/Optional,Gamepad
+Input Devices Supported/Optional,GamePad
+Input Devices Supported/Optional,Gravis Gamepad
+Input Devices Supported/Optional,Gun Controller
+Input Devices Supported/Optional,Guitar Controller
+Input Devices Supported/Optional,Guitar Grip
+Input Devices Supported/Optional,Hand Controller
+Input Devices Supported/Optional,Headset Compatible
+Input Devices Supported/Optional,Instrument controller
+Input Devices Supported/Optional,iOS Device
+Input Devices Supported/Optional,Joyboard
+Input Devices Supported/Optional,Joy-Con
+Input Devices Supported/Optional,Joystick
+Input Devices Supported/Optional,Keyboard
+Input Devices Supported/Optional,Keyboard Compatible
+Input Devices Supported/Optional,Keypad
+Input Devices Supported/Optional,Kids Station
+Input Devices Supported/Optional,Kinect Compatible
+Input Devices Supported/Optional,Leap Motion
+Input Devices Supported/Optional,Light Gun / Attachment
+Input Devices Supported/Optional,Light Pen
+Input Devices Supported/Optional,Mad Catz Panther PX Controller
+Input Devices Supported/Optional,Mahjong controller
+Input Devices Supported/Optional,Microphone
+Input Devices Supported/Optional,Mission Stick
+Input Devices Supported/Optional,Motion sensor
+Input Devices Supported/Optional,Mouse
+Input Devices Supported/Optional,Mouse Compatible
+Input Devices Supported/Optional,Move Motion Controller Compatible
+Input Devices Supported/Optional,Move Navigation Controller Compatible
+Input Devices Supported/Optional,Namco Paddle
+Input Devices Supported/Optional,Nintendo DS Compatible
+Input Devices Supported/Optional,Nintendo Switch Pro Controller
+Input Devices Supported/Optional,Nunchuk
+Input Devices Supported/Optional,Other Input Devices
+Input Devices Supported/Optional,Paddle Controller
+Input Devices Supported/Optional,Paddles
+Input Devices Supported/Optional,Sliders
+Input Devices Supported/Optional,Levers
+Input Devices Supported/Optional,Pedals
+Input Devices Supported/Optional,Pop'n Music
+Input Devices Supported/Optional,Power Pad
+Input Devices Supported/Optional,PowerGlove
+Input Devices Supported/Optional,Pro Guitar
+Input Devices Supported/Optional,Racing/Steering Wheel
+Input Devices Supported/Optional,Rapala Rod and Reel Angling Attachment
+Input Devices Supported/Optional,REALPLAY Cue Controller
+Input Devices Supported/Optional,REALPLAY Golf Club Controller
+Input Devices Supported/Optional,REALPLAY Puzzlesphere Controller
+Input Devices Supported/Optional,REALPLAY Wheel Controller
+Input Devices Supported/Optional,Rear Touch Pad
+Input Devices Supported/Optional,Remote Controller
+Input Devices Supported/Optional,Roller Controller
+Input Devices Supported/Optional,Rudder Controller
+Input Devices Supported/Optional,Shooting Gallery
+Input Devices Supported/Optional,Smartphone
+Input Devices Supported/Optional,Spinner
+Input Devices Supported/Optional,Standard ColecoVision Controller
+Input Devices Supported/Optional,Sports Pad
+Input Devices Supported/Optional,Standard Controller
+Input Devices Supported/Optional,Stylus
+Input Devices Supported/Optional,Super Action Controller
+Input Devices Supported/Optional,Super Sketch Pad
+Input Devices Supported/Optional,Taiko Controller
+Input Devices Supported/Optional,TeeV Golf
+Input Devices Supported/Optional,Teletype/Teleprinter
+Input Devices Supported/Optional,Tobii Eye Tracking
+Input Devices Supported/Optional,Touchpad Controller
+Input Devices Supported/Optional,Touchpad Tablet
+Input Devices Supported/Optional,TouchWindow
+Input Devices Supported/Optional,Touch Screen
+Input Devices Supported/Optional,Thrustmaster (FCS and/or WCS)
+Input Devices Supported/Optional,Track and Field Controller
+Input Devices Supported/Optional,Track Pad
+Input Devices Supported/Optional,Trak-Ball
+Input Devices Supported/Optional,Trackball
+Input Devices Supported/Optional,Tracked motion controllers
+Input Devices Supported/Optional,Turntable
+Input Devices Supported/Optional,USB Mouse Compatible (SCPH-10230)
+Input Devices Supported/Optional,Virtua Stick
+Input Devices Supported/Optional,V.Smile Art Studio
+Input Devices Supported/Optional,V.Smile Jammin' Gym Class Exercise Mat
+Input Devices Supported/Optional,V.Smile Smart Keyboard
+Input Devices Supported/Optional,V.Smile Smartbook
+Input Devices Supported/Optional,VR Helmet/Headset
+Input Devices Supported/Optional,Wai Wai Trump Controller
+Input Devices Supported/Optional,Wii Balance Board
+Input Devices Supported/Optional,Wii MotionPlus
+Input Devices Supported/Optional,Wii Remote
+Input Devices Supported/Optional,Wii MotionPlus / Wii Remote Plus
+Input Devices Supported/Optional,Wii Speak
+Input Devices Supported/Optional,Wii U Pro Controller
+Input Devices Supported/Optional,Z-Pad
+Input Devices Supported/Optional,TVT-II
+Input Devices Supported/Optional,Chorded Keyset
+Input Devices Supported/Optional,Circle Pad Pro / Circle Pad Pro XL
+Input Devices Supported/Optional,Ring-Con & Leg Strap
+Controller Types Supported,Analog Controller
+Controller Types Supported,Analog Joystick
+Controller Types Supported,Digital Controller
+Controller Types Supported,Digital Joystick
+Controller Types Supported,Rotary Joystick
+Controller Types Supported,Wireless Controller
+Input Device Features Supported,Force Feedback
+Input Device Features Supported,Vibration
+Input Device Features Supported,Trigger Effect
+Arcade Sticks Supported,Fighting Stick EX2
+Arcade Sticks Supported,Dreamcast Arcade Stick (HKT-7300)
+Arcade Sticks Supported,Fighting Stick VX
+Arcade Sticks Supported,Namco Arcade Stick (SLEH-0004)
+Cameras Supported,Built-in Camera
+Cameras Supported,EyeToy
+Cameras Supported,PlayStation Camera
+Cameras Supported,PlayStation Eye
+Cameras Supported,PS5 HD Camera
+Cameras Supported,PSP Camera
+Gamepads Supported,Dual Analog Controller
+Gamepads Supported,DualShock
+Gamepads Supported,DualShock 2
+Gamepads Supported,DualShock 3
+Gamepads Supported,DualShock 4
+Gamepads Supported,DualSense Controller
+Gamepads Supported,GameCube Controller
+Gamepads Supported,Jaguar Pad
+Gamepads Supported,Joypad
+Gamepads Supported,NeGcon (SLEH-0003)
+Gamepads Supported,PlayStation Controller
+Gamepads Supported,Sixaxis
+Gamepads Supported,Xbox 360 Controller
+Gamepads Supported,Xbox One/Series Wireless Controller
+Joysticks Supported,Cascade Joystick
+Joysticks Supported,Cursor Joystick
+Joysticks Supported,Dual Joystick Singular Control
+Joysticks Supported,Fuller Joystick
+Joysticks Supported,Kempston Joystick
+Joysticks Supported,Twin joysticks
+Joysticks Supported,Sinclair Joystick
+Joysticks Supported,Spectravideo Joystick
+Joysticks Supported,PlayStation Analog Joystick (SCPH-1110)
+Light Guns / Attachments Supported,Actionware Phaser
+Light Guns / Attachments Supported,Atari XG-1
+Light Guns / Attachments Supported,Gamegun
+Light Guns / Attachments Supported,Guncon / G-Con 45
+Light Guns / Attachments Supported,Guncon 2 / G-Con 2
+Light Guns / Attachments Supported,Guncon 3
+Light Guns / Attachments Supported,Light Phaser
+Light Guns / Attachments Supported,Magnum Light Phaser
+Light Guns / Attachments Supported,Menacer
+Light Guns / Attachments Supported,NES Zapper
+Light Guns / Attachments Supported,Peacekeeper Revolver
+Light Guns / Attachments Supported,PlayStation Move Sharp Shooter
+Light Guns / Attachments Supported,PlayStation Move Shooting Attachment
+Light Guns / Attachments Supported,PlayStation VR Aim Controller
+Light Guns / Attachments Supported,Super Scope
+Light Guns / Attachments Supported,The Justifier
+Light Guns / Attachments Supported,Top Shot Classic
+Light Guns / Attachments Supported,Top Shot Elite
+Light Guns / Attachments Supported,Top Shot FearMaster
+Light Guns / Attachments Supported,Top Shot Sport for Kinect
+Light Guns / Attachments Supported,Trojan Phazer
+Light Guns / Attachments Supported,USB Light Gun (Act Labs)
+Light Guns / Attachments Supported,Wii Zapper
+Microphones Supported,USB Headset
+Microphones Supported,SingStar Microphones
+Mouses Supported,AMX Mouse
+Mouses Supported,Kempston Mouse
+Mouses Supported,Mega Mouse
+Mouses Supported,PS/2 Mouse
+Mouses Supported,Sega Mouse
+Mouses Supported,Shuttle Mouse
+Mouses Supported,SNES Mouse
+Racing/Steering Wheels Supported,Arcade Racer
+Racing/Steering Wheels Supported,Cockpit (SLPH-00024)
+Racing/Steering Wheels Supported,Cockpit Big Shock (SLPH-00101)
+Racing/Steering Wheels Supported,Driving Force
+Racing/Steering Wheels Supported,Driving Force GT
+Racing/Steering Wheels Supported,Driving Force Pro / GT Force Pro (LPRC-11000)
+Racing/Steering Wheels Supported,Dual Force Racing Wheel
+Racing/Steering Wheels Supported,Ferrari 458 Spider
+Racing/Steering Wheels Supported,Ferrari Racing Wheel (Red Legend Edition)
+Racing/Steering Wheels Supported,G27
+Racing/Steering Wheels Supported,G920 Driving Force
+Racing/Steering Wheels Supported,GT Force (LPRC-10000)
+Racing/Steering Wheels Supported,GT Force Pro (LPRC-11500)
+Racing/Steering Wheels Supported,Mad Catz (SLEH-0005/6 / SLUH-000022)
+Racing/Steering Wheels Supported,MOMO Force
+Racing/Steering Wheels Supported,MOMO Racing Force
+Racing/Steering Wheels Supported,NanoRS RS600
+Racing/Steering Wheels Supported,Pro Racing
+Racing/Steering Wheels Supported,Rally Wheel / Race Controller
+Racing/Steering Wheels Supported,Speedster 2 (SLEH-00024)
+Racing/Steering Wheels Supported,Speedster 3 (SLEH-00029)
+Racing/Steering Wheels Supported,Speedster 3: ForceShock
+Racing/Steering Wheels Supported,T150 Force Feedback
+Racing/Steering Wheels Supported,T300 RS (GT Edition)
+Racing/Steering Wheels Supported,TMX Force Feedback
+Racing/Steering Wheels Supported,Wii Wheel
+Racing/Steering Wheels Supported,Xbox 360 Wireless Racing Wheel
+Remote Controllers Supported,DVD Remote Control
+Remote Controllers Supported,Fire TV Remote
+Remote Controllers Supported,Siri Remote
+Xbox Kinect,1 Player
+Xbox Kinect,1-2 Players
+Xbox Kinect,1-4 Players
+Xbox Kinect,1-8 Players
+Xbox Kinect,Co-op 2
+Xbox Kinect,Co-op 2-16
+Xbox Kinect,Activity Level: Sitting
+Xbox Kinect,Activity Level: Sitting - Standing
+Xbox Kinect,Activity Level: Active
+Xbox Kinect,Activity Level: Standing - Active
+Xbox Kinect,Voice Enabled
+Xbox Kinect,Controller optional
+Xbox Kinect,Controller required
+Xbox Kinect,Object Scanning
+Xbox Kinect,User Generated Content
+Xbox Kinect,In-Game Avatar
+VR Helmets/Headsets Supported,Daydream
+VR Helmets/Headsets Supported,Forte VFX1
+VR Helmets/Headsets Supported,Google Cardboard
+VR Helmets/Headsets Supported,HTC Vive
+VR Helmets/Headsets Supported,Meta Quest
+VR Helmets/Headsets Supported,Mixed Reality
+VR Helmets/Headsets Supported,Nintendo Labo Toy-Con VR Goggle
+VR Helmets/Headsets Supported,Oculus Rift
+VR Helmets/Headsets Supported,OSVR
+VR Helmets/Headsets Supported,PlayStation VR
+VR Helmets/Headsets Supported,Samsung Gear VR
+VR Helmets/Headsets Supported,Valve Index
+VR Helmets/Headsets Supported,Victormaxx CyberMaxx
+VR Helmets/Headsets Supported,Virtual I/O i-Glasses
+Number of Motion Controllers Supported,1 Controller (single hand)
+Number of Motion Controllers Supported,2 Controllers (both hands)
+Number of Motion Controllers Supported,4 Controllers (two players both hands)
+Additional Hardware Required,3D Accelerator
+Additional Hardware Required,USB Converter
+Additional Hardware Supported,Mobile Phone Connection Cable (SCPH-10180)
+Additional Hardware Supported,3D Accelerator
+Additional Hardware Supported,Multitap
+Additional Hardware Supported,Printer
+Additional Hardware Supported,System/Multi-Link Cable
+Printers Supported,Epson Printer (USB)
+Printers Supported,PopEgg Printer
+Multiplayer Options,Ad Hoc
+Multiplayer Options,Amazon Users
+Multiplayer Options,ARPANET
+Multiplayer Options,BBS
+Multiplayer Options,Bluetooth
+Multiplayer Options,CompuServe
+Multiplayer Options,Dial-up
+Multiplayer Options,GEnie
+Multiplayer Options,Hot Seat
+Multiplayer Options,Infrastructure
+Multiplayer Options,Internet
+Multiplayer Options,IPX
+Multiplayer Options,IRC
+Multiplayer Options,LAN
+Multiplayer Options,Mega Modem
+Multiplayer Options,MIDI
+Multiplayer Options,Modem
+Multiplayer Options,Monthly Subscription
+Multiplayer Options,NetBIOS
+Multiplayer Options,Net Sprockets
+Multiplayer Options,Null-modem cable
+Multiplayer Options,Online Option
+Multiplayer Options,Parallel Cable
+Multiplayer Options,PBeM (Play-by-E-mail)
+Multiplayer Options,PBM (Play-by-mail)
+Multiplayer Options,PLATO
+Multiplayer Options,Same/Split-Screen
+Multiplayer Options,Multi-screen
+Multiplayer Options,Telnet
+Multiplayer Options,Turn-Based Multiplayer (Game Link Cable)
+Multiplayer Options,Real-Time Multiplayer (Game Link Cable)
+Multiplayer Options,Prestel / Minitel
+Multiplayer Game Modes,Bots
+Multiplayer Game Modes,Co-Op
+Multiplayer Game Modes,Free-for-all / One-on-one (VS)
+Multiplayer Game Modes,Team
+Number of Players Supported,1 Player
+Number of Players Supported,2 Players
+Number of Players Supported,1-2 Players
+Number of Players Supported,1-3 Players
+Number of Players Supported,2-3 Players
+Number of Players Supported,1-4 Players
+Number of Players Supported,2-4 Players
+Number of Players Supported,1-5 Players
+Number of Players Supported,2-5 Players
+Number of Players Supported,1-6 Players
+Number of Players Supported,2-6 Players
+Number of Players Supported,1-7 Players
+Number of Players Supported,1-8 Players
+Number of Players Supported,1-9 Players
+Number of Players Supported,1-10 Players
+Number of Players Supported,1-12 Players
+Number of Players Supported,1-16 Players
+Number of Players Supported,1-20 Players
+Number of Players Supported,8+ Players
+Number of Players Supported,Single Player
+Number of Players Supported,Multiplayer
+Number of Offline Players,1 Player
+Number of Offline Players,1-2 Players
+Number of Offline Players,1-3 Players
+Number of Offline Players,1-4 Players
+Number of Offline Players,1-5 Players
+Number of Offline Players,1-6 Players
+Number of Offline Players,1-7 Players
+Number of Offline Players,1-8 Players
+Number of Offline Players,1-9 Players
+Number of Offline Players,1-10 Players
+Number of Offline Players,1-12 Players
+Number of Offline Players,1-16 Players
+Number of Offline Players,2 Players
+Number of Offline Players,2-3 Players
+Number of Offline Players,2-4 Players
+Number of Offline Players,2-6 Players
+Number of Offline Players,8+ Players
+Number of Offline Players via Handheld Mode,1 Player
+Number of Offline Players via Handheld Mode,2 Players
+Number of Offline Players via Handheld Mode,1-2 Players
+Number of Offline Players via Handheld Mode,1-3 Players
+Number of Offline Players via Handheld Mode,1-4 Players
+Number of Offline Players via Handheld Mode,1-12 Players
+Number of Offline Players via Multitap,1-3 Players
+Number of Offline Players via Multitap,1-4 Players
+Number of Offline Players via Multitap,1-5 Players
+Number of Offline Players via Multitap,1-6 Players
+Number of Offline Players via Multitap,1-7 Players
+Number of Offline Players via Multitap,1-8 Players
+Number of Offline Players via Multitap,1-16 Players
+Number of Offline Players via Tabletop Mode,1 Player
+Number of Offline Players via Tabletop Mode,2 Players
+Number of Offline Players via Tabletop Mode,1-2 Players
+Number of Offline Players via Tabletop Mode,1-3 Players
+Number of Offline Players via Tabletop Mode,1-4 Players
+Number of Offline Players via Tabletop Mode,1-5 Players
+Number of Offline Players via Tabletop Mode,1-6 Players
+Number of Offline Players via Tabletop Mode,1-7 Players
+Number of Offline Players via Tabletop Mode,1-8 Players
+Number of Offline Players via Tabletop Mode,1-12 Players
+Number of Offline Players via TV Mode,1 Player
+Number of Offline Players via TV Mode,2 Players
+Number of Offline Players via TV Mode,1-2 Players
+Number of Offline Players via TV Mode,1-3 Players
+Number of Offline Players via TV Mode,1-4 Players
+Number of Offline Players via TV Mode,1-5 Players
+Number of Offline Players via TV Mode,1-6 Players
+Number of Offline Players via TV Mode,1-7 Players
+Number of Offline Players via TV Mode,1-8 Players
+Number of Offline Players via TV Mode,1-12 Players
+Number of Local Players via Bluetooth,2 Players
+Number of Local Players via Bluetooth,2-3 Players
+Number of Local Players via Bluetooth,2-4 Players
+Number of Local Players via Bluetooth,2-5 Players
+Number of Local Players via Bluetooth,2-6 Players
+Number of Local Players via Bluetooth,2-7 Players
+Number of Local Players via Bluetooth,2-8 Players
+Number of Local Players via Download Play (single game card),1-2 Players
+Number of Local Players via Download Play (single game card),1-4 Players
+Number of Local Players via Download Play (single game card),2 Players
+Number of Local Players via Download Play (single game card),2-4 Players
+Number of Local Players via Download Play (single game card),2-8 Players
+Number of Local Players via e-Reader,1 Player
+Number of Local Players via e-Reader,1-2 Players
+Number of Local Players via e-Reader,1-3 Players
+Number of Local Players via e-Reader,1-4 Players
+Number of Local Players via Infrared,2 Players
+Number of Local Players via Infrared,2-3 Players
+Number of Local Players via Infrared,2-4 Players
+Number of Local Players via Infrared,2-5 Players
+Number of Local Players via Infrared,2-6 Players
+Number of Local Players via System Link / LAN Cable,2 Players
+Number of Local Players via System Link / LAN Cable,2-3 Players
+Number of Local Players via System Link / LAN Cable,2-4 Players
+Number of Local Players via System Link / LAN Cable,2-6 Players
+Number of Local Players via System Link / LAN Cable,2-8 Players
+Number of Local Players via System Link / LAN Cable,2-9 Players
+Number of Local Players via System Link / LAN Cable,2-10 Players
+Number of Local Players via System Link / LAN Cable,2-12 Players
+Number of Local Players via System Link / LAN Cable,2-14 Players
+Number of Local Players via System Link / LAN Cable,2-16 Players
+Number of Local Players via System Link / LAN Cable,2-18 Players
+Number of Local Players via System Link / LAN Cable,2-24 Players
+Number of Local Players via System Link / LAN Cable,2-30 Players
+Number of Local Players via System Link / LAN Cable,2-31 Players
+Number of Local Players via Wi-Fi,1-2 Players
+Number of Local Players via Wi-Fi,1-4 Players
+Number of Local Players via Wi-Fi,2 Players
+Number of Local Players via Wi-Fi,2-3 Players
+Number of Local Players via Wi-Fi,2-4 Players
+Number of Local Players via Wi-Fi,2-5 Players
+Number of Local Players via Wi-Fi,2-6 Players
+Number of Local Players via Wi-Fi,2-8 Players
+Number of Local Players via Wi-Fi,2-10 Players
+Number of Local Players via Wi-Fi,2-12 Players
+Number of Local Players via Wi-Fi,2-16 Players
+Number of Local Players via Wi-Fi,2-32 Players
+Number of Online Players,1 Player
+Number of Online Players,1-2 Players
+Number of Online Players,1-3 Players
+Number of Online Players,1-4 Players
+Number of Online Players,1-5 Players
+Number of Online Players,1-6 Players
+Number of Online Players,1-8 Players
+Number of Online Players,1-12 Players
+Number of Online Players,1-16 Players
+Number of Online Players,1-18 Players
+Number of Online Players,1-24 Players
+Number of Online Players,1-30 Players
+Number of Online Players,1-32 Players
+Number of Online Players,2 Players
+Number of Online Players,3 Players
+Number of Online Players,2-3 Players
+Number of Online Players,2-4 Players
+Number of Online Players,2-5 Players
+Number of Online Players,2-6 Players
+Number of Online Players,2-7 Players
+Number of Online Players,2-8 Players
+Number of Online Players,2-10 Players
+Number of Online Players,2-12 Players
+Number of Online Players,2-16 Players
+Number of Online Players,2-18 Players
+Number of Online Players,2-24 Players
+Number of Online Players,2-30 Players
+Number of Online Players,2-31 Players
+Number of Online Players,2-50 Players
+Number of Online Players,2-64 Players
+Number of Online Players,2-66 Players
+Number of Online Players,4 Players
+Number of Online Players,4-12 Players
+Number of Online Players,5-8 Players
+Number of Online Players,6 Players
+Number of Online Players,6-12 Players
+Number of Online Players,7 Players
+Number of Online Players,8 Players
+Number of Online Players,9 Players
+Number of Online Players,10 Players
+Number of Online Players,11 Players
+Number of Online Players,14 Players
+Number of Online Players,20 Players
+Number of Online Players,22 Players
+Number of Online Players,32 Players
+Number of Online Players,36 Players
+Number of Online Players,40 Players
+Number of Online Players,43 Players
+Number of Online Players,48 Players
+Number of Online Players,50 Players
+Number of Online Players,60 Players
+Number of Online Players,99 Players
+Number of Online Players,100+ Players
+Number of Players: Co-Op,2 Players
+Number of Players: Co-Op,2-3 Players
+Number of Players: Co-Op,2-4 Players
+Number of Players: Co-Op,2-5 Players
+Number of Players: Co-Op,2-6 Players
+Number of Players: Co-Op,2-7 Players
+Number of Players: Co-Op,2-8 Players
+Number of Players: Co-Op,2-10 Players
+Number of Players: Co-Op,2-16 Players
+Number of Players: Co-Op,2-31 Players
+Number of Players: Wireless Multi-Card,2 Players
+Number of Players: Wireless Multi-Card,2-3 Players
+Number of Players: Wireless Multi-Card,2-4 Players
+Number of Players: Wireless Multi-Card,2-5 Players
+Number of Players: Wireless Multi-Card,2-6 Players
+Number of Players: Wireless Multi-Card,2-7 Players
+Number of Players: Wireless Multi-Card,2-8 Players
+Number of Players: Wireless Multi-Card,2-10 Players
+Number of Players: Wireless Multi-Card,2-16 Players
+Number of Players: Wireless Single-Card,1-2 Players
+Number of Players: Wireless Single-Card,2-4 Players
+Number of Players: Wireless Single-Card,2-5 Players
+Number of Players: Wireless Single-Card,2-6 Players
+Number of Players: Wireless Single-Card,2-8 Players
+Number of Players: Wireless Single-Card,2-10 Players
+Number of Players: Wireless Single-Card,2-16 Players
+VR Play Area,Room-Scale
+VR Play Area,Seated
+VR Play Area,Standing
+Amazon Alexa,Account Linking Required
+Command Languages Supported,English (AU)
+Command Languages Supported,English (CA)
+Command Languages Supported,English (GB)
+Command Languages Supported,English (IN)
+Command Languages Supported,English (US)
+Command Languages Supported,German
+Command Languages Supported,Japanese
+GOG.com,Achievements
+GOG.com,Cloud saves
+GOG.com,Co-op
+GOG.com,Controller support
+GOG.com,Leaderboards
+GOG.com,Multi-player
+GOG.com,Overlay
+GOG.com,Single-player
+PlayStation Network,Add-on Content (DLC)
+PlayStation Network,Cross-Buy
+PlayStation Network,Cross-Save
+PlayStation Network,Custom Soundtrack
+PlayStation Network,Downloadable Content/Community Features
+PlayStation Network,Gameplay Record/Upload
+PlayStation Network,Leaderboards
+PlayStation Network,Lobbies/Matchmaking
+PlayStation Network,Messaging/Friend invite in game
+PlayStation Network,Multiplayer
+PlayStation Network,PlayStation Home integration
+PlayStation Network,Trophies
+PlayStation Network,Voice Chat
+Steam,Achievements
+Steam,Cloud
+Steam,Commentary available
+Steam,Cross-platform
+Steam,DLC available
+Steam,Includes Level-Editor
+Steam,Leaderboards
+Steam,Steam account required
+Steam,Steam Timeline
+Steam,SteamVR Collectibles
+Steam,Trading cards
+Steam,Turn notifications
+Steam,Valve Anti-Cheat System (VAC)
+Steam,Workshop
+Steam,Remote Play on Phone
+Steam,Remote Play on Tablet
+Steam,Remote Play on TV
+Steam,Remote Play Together
+Steam,Stats
+StreetPass,Data Sharing
+StreetPass,Notification
+StreetPass,Simulation Battle
+StreetPass,VS/Co-op Play
+StreetPass,VS Play
+Xbox/Windows Live,Achievements
+Xbox/Windows Live,Avatars
+Xbox/Windows Live,Clans
+Xbox/Windows Live,Cloud saves
+Xbox/Windows Live,Content Download
+Xbox/Windows Live,File Sharing
+Xbox/Windows Live,Friends
+Xbox/Windows Live,Live Aware
+Xbox/Windows Live,Matchmaking
+Xbox/Windows Live,Online Co-Op
+Xbox/Windows Live,Online Multiplayer
+Xbox/Windows Live,Online Only
+Xbox/Windows Live,Scoreboard/Leaderboard
+Xbox/Windows Live,Spectator Mode
+Xbox/Windows Live,Tournaments
+Xbox/Windows Live,Vision
+Xbox/Windows Live,Voice Chat
+Xbox/Windows Live,Voice Commands
+Xbox/Windows Live,Xbox 360 / Windows Vista cross-platform
+Xbox/Windows Live,Xbox Play Anywhere
+Nintendo Switch Online,Online Play
+Nintendo Switch Online,Switch Online
+Nintendo Switch Online,Save Data Cloud
+Nintendo Switch Online,Smartphone App
+Oculus.com,Supports Gamepad
+Oculus.com,Supports Gear VR
+Oculus.com,Supports Gear VR Controller
+Oculus.com,Supports Go
+Oculus.com,Supports Oculus Go Controller
+Oculus.com,Supports Oculus Remote
+Oculus.com,Supports Oculus Touch
+Oculus.com,Supports Oculus Touch (as Gamepad)
+Oculus.com,Supports Quest
+Oculus.com,Supports Quest Pro
+Oculus.com,Supports Quest 2
+Oculus.com,Supports Quest 3
+Oculus.com,Supports Rift
+Oculus.com,Supports Rift S
+Oculus.com,Supports Touchpad
+Oculus.com,Supports Hand Tracking
+Save Game Methods,Auto-save
+Save Game Methods,Manual Save
+Save Game Methods,Internal Storage
+Save Game Methods,External Storage
+Save Game Methods,Game Media
+Save Game Methods,Cloud (Online)
+Save Game Methods,Password
+Miscellaneous Attributes,1MB RAM Cart
+Miscellaneous Attributes,3D Classics
+Miscellaneous Attributes,3D Touch / Force Touch
+Miscellaneous Attributes,3-D Glasses
+Miscellaneous Attributes,3Dfx
+Miscellaneous Attributes,3D Mode
+Miscellaneous Attributes,3D Imager
+Miscellaneous Attributes,4 Players Adaptor
+Miscellaneous Attributes,4-way Play
+Miscellaneous Attributes,4MB RAM Cart
+Miscellaneous Attributes,4-Player Adapter
+Miscellaneous Attributes,6-player Adapter
+Miscellaneous Attributes,64DD
+Miscellaneous Attributes,Activity Level: Active
+Miscellaneous Attributes,Activity Level: Standing
+Miscellaneous Attributes,Activity Level: Standing - Active
+Miscellaneous Attributes,Activity Level: Sitting
+Miscellaneous Attributes,Activity Level: Sitting - Active
+Miscellaneous Attributes,Activity Level: Sitting - Standing
+Miscellaneous Attributes,Amiibo
+Miscellaneous Attributes,Agon
+Miscellaneous Attributes,Off-TV Play
+Miscellaneous Attributes,Apple Arcade
+Miscellaneous Attributes,Apple Watch App for iPhone
+Miscellaneous Attributes,Augmented Reality cards
+Miscellaneous Attributes,Backup Cart supported
+Miscellaneous Attributes,BASIC Cartridge
+Miscellaneous Attributes,BASIC Required
+Miscellaneous Attributes,Battery Backed RAM
+Miscellaneous Attributes,Battle Box
+Miscellaneous Attributes,Broadband
+Miscellaneous Attributes,Built in Rumble Feature
+Miscellaneous Attributes,Color Monitor Required
+Miscellaneous Attributes,Color Monitor Support
+Miscellaneous Attributes,Comlynx Cable
+Miscellaneous Attributes,Communication Cable
+Miscellaneous Attributes,Compete.com Cable
+Miscellaneous Attributes,Controller Pak
+Miscellaneous Attributes,Cross-Buy
+Miscellaneous Attributes,Cross-platform Play
+Miscellaneous Attributes,Crowd Choice
+Miscellaneous Attributes,Crystal
+Miscellaneous Attributes,Crowd Play
+Miscellaneous Attributes,Currah MicroSpeech
+Miscellaneous Attributes,Definable Keys
+Miscellaneous Attributes,Digimon Connector
+Miscellaneous Attributes,DirectLink
+Miscellaneous Attributes,DoubleTalk
+Miscellaneous Attributes,Downloadable Content (DLC)
+Miscellaneous Attributes,Dreamcast Link Cable
+Miscellaneous Attributes,Dreamcast VS Cable
+Miscellaneous Attributes,DSi Camera
+Miscellaneous Attributes,DSi Enhanced
+Miscellaneous Attributes,DSiWare
+Miscellaneous Attributes,DualShock Required
+Miscellaneous Attributes,DVC Optional
+Miscellaneous Attributes,DVC Required
+Miscellaneous Attributes,Dynamic Content
+Miscellaneous Attributes,e-Reader Game
+Miscellaneous Attributes,e-Reader Compatible
+Miscellaneous Attributes,Editor/Assembler Cartridge
+Miscellaneous Attributes,Entertainment Computer System (ECS)
+Miscellaneous Attributes,Ethernet Broadband Required
+Miscellaneous Attributes,Ethernet Compatible
+Miscellaneous Attributes,Everyplay
+Miscellaneous Attributes,Expansion Pak
+Miscellaneous Attributes,Extended Basic Cartridge
+Miscellaneous Attributes,Facebook Connect
+Miscellaneous Attributes,Famicom 3D System
+Miscellaneous Attributes,Fat binary
+Miscellaneous Attributes,Fingerboard Controller
+Miscellaneous Attributes,Friend Roster
+Miscellaneous Attributes,Gameloft Live
+Miscellaneous Attributes,Game Boy Compatible
+Miscellaneous Attributes,Game Boy Player Enhanced
+Miscellaneous Attributes,Game Boy Printer Support
+Miscellaneous Attributes,GameCircle
+Miscellaneous Attributes,GameCube Compatible
+Miscellaneous Attributes,Game Center
+Miscellaneous Attributes,Game Help supported
+Miscellaneous Attributes,Game Link Cable
+Miscellaneous Attributes,Game Sharing
+Miscellaneous Attributes,Gear-to-Gear Cable
+Miscellaneous Attributes,Google Play game services
+Miscellaneous Attributes,GPS
+Miscellaneous Attributes,Handheld mode compatible
+Miscellaneous Attributes,Handheld mode required
+Miscellaneous Attributes,Haptic feedback: Kinesthetic
+Miscellaneous Attributes,Haptic feedback: Tactile
+Miscellaneous Attributes,Hard Drive Installable
+Miscellaneous Attributes,Hard Drive Required
+Miscellaneous Attributes,Headset
+Miscellaneous Attributes,HDOS
+Miscellaneous Attributes,iCloud
+Miscellaneous Attributes,iLink
+Miscellaneous Attributes,In-app/game/skill Purchase
+Miscellaneous Attributes,Infra-Red Port Compatible
+Miscellaneous Attributes,IntelliVoice
+Miscellaneous Attributes,Includes Windows Launcher or Installer
+Miscellaneous Attributes,Internal Hard Disk Drive Required
+Miscellaneous Attributes,J-Cart
+Miscellaneous Attributes,Jaguar Link
+Miscellaneous Attributes,Jaguar Team Tap
+Miscellaneous Attributes,JAMMA
+Miscellaneous Attributes,Jump Pack Compatible
+Miscellaneous Attributes,Monitor overlay
+Miscellaneous Attributes,WiiWare
+Miscellaneous Attributes,Kiip
+Miscellaneous Attributes,Link Cable
+Miscellaneous Attributes,Link Cable / Linkable
+Miscellaneous Attributes,Location Data Acquisition Service
+Miscellaneous Attributes,Master Strategy Series
+Miscellaneous Attributes,Math co-processor
+Miscellaneous Attributes,MBASIC
+Miscellaneous Attributes,Meganet Game Library
+Miscellaneous Attributes,Memory Track
+Miscellaneous Attributes,Memory card supported
+Miscellaneous Attributes,Memory Base 128
+Miscellaneous Attributes,Memory Unit
+Miscellaneous Attributes,iMessage App for iOS
+Miscellaneous Attributes,Mii Support
+Miscellaneous Attributes,Miiverse
+Miscellaneous Attributes,Mobile Game Boy Adapter
+Miscellaneous Attributes,Modem
+Miscellaneous Attributes,Modem Compatible
+Miscellaneous Attributes,Modified hardware or emulator required
+Miscellaneous Attributes,Monochrome Monitor Support
+Miscellaneous Attributes,Multi-Link Cable
+Miscellaneous Attributes,Multiple players required
+Miscellaneous Attributes,Neo Geo CD exclusive
+Miscellaneous Attributes,Neo Geo Pocket Compatible
+Miscellaneous Attributes,NES Four Score
+Miscellaneous Attributes,NES Satellite
+Miscellaneous Attributes,Netlink
+Miscellaneous Attributes,Network Adaptor
+Miscellaneous Attributes,NVRAM saves
+Miscellaneous Attributes,Offline play enabled
+Miscellaneous Attributes,One-time activation
+Miscellaneous Attributes,Online Multiplayer
+Miscellaneous Attributes,Online play optional
+Miscellaneous Attributes,Online play required
+Miscellaneous Attributes,OpenFeint
+Miscellaneous Attributes,Orientation
+Miscellaneous Attributes,Permanent Internet connection required
+Miscellaneous Attributes,Picture Paradise
+Miscellaneous Attributes,Planar chip
+Miscellaneous Attributes,PlayStation Certified / PlayStation Mobile
+Miscellaneous Attributes,Plus+
+Miscellaneous Attributes,PocketStation
+Miscellaneous Attributes,Pressure/Touch Sensitive
+Miscellaneous Attributes,Pro Controller
+Miscellaneous Attributes,SEN/PSN Download Exclusives
+Miscellaneous Attributes,PlayStation Home game
+Miscellaneous Attributes,PlayStation Network compatible
+Miscellaneous Attributes,PlayStation Now compatible
+Miscellaneous Attributes,PlayStation TV compatible
+Miscellaneous Attributes,PS4 Pro Enhanced/Support
+Miscellaneous Attributes,PS5 Upgrade Available
+Miscellaneous Attributes,PS5 game streaming supported only with Premium subscription
+Miscellaneous Attributes,PS One Classics
+Miscellaneous Attributes,PS Plus required for online play
+Miscellaneous Attributes,PS Vita Camera
+Miscellaneous Attributes,PlayStation 2 Classic
+Miscellaneous Attributes,PSP Compatible
+Miscellaneous Attributes,PSP mini
+Miscellaneous Attributes,QTalk
+Miscellaneous Attributes,Requires Windows version
+Miscellaneous Attributes,Audio CD Tracks
+Miscellaneous Attributes,Remote Play
+Miscellaneous Attributes,R.O.B.
+Miscellaneous Attributes,Rumble Pak
+Miscellaneous Attributes,SA-1 Chip
+Miscellaneous Attributes,Satellaview (BS-X)
+Miscellaneous Attributes,Saved Game Data Import
+Miscellaneous Attributes,Save Game Memory
+Miscellaneous Attributes,Scoreloop
+Miscellaneous Attributes,SEGA 3-D Glasses
+Miscellaneous Attributes,Single Cartridge Multiplayer Support
+Miscellaneous Attributes,Single-Pak Multiplayer Support
+Miscellaneous Attributes,SIXAXIS Motion Sensor
+Miscellaneous Attributes,SmartGlass Enabled
+Miscellaneous Attributes,SRAM
+Miscellaneous Attributes,Starpath Supercharger
+Miscellaneous Attributes,Statistics
+Miscellaneous Attributes,Stream Connect
+Miscellaneous Attributes,Super FX Chip
+Miscellaneous Attributes,Super Game Boy Compatible
+Miscellaneous Attributes,Supertalker
+Miscellaneous Attributes,tvOS Multiplayer Compatible
+Miscellaneous Attributes,Team Play
+Miscellaneous Attributes,System friendly
+Miscellaneous Attributes,Tabletop mode compatible
+Miscellaneous Attributes,Tabletop mode required
+Miscellaneous Attributes,TextTalker
+Miscellaneous Attributes,Tilt Sensor
+Miscellaneous Attributes,TrackIR
+Miscellaneous Attributes,Transfer Pak
+Miscellaneous Attributes,TurboTap
+Miscellaneous Attributes,TV mode compatible
+Miscellaneous Attributes,TV mode required
+Miscellaneous Attributes,Twitter Connection
+Miscellaneous Attributes,UMD Legacy
+Miscellaneous Attributes,UMD Video
+Miscellaneous Attributes,Universal binary
+Miscellaneous Attributes,VGA Box/Cord
+Miscellaneous Attributes,Voice Chat
+Miscellaneous Attributes,VMU Compatible
+Miscellaneous Attributes,Voice Box
+Miscellaneous Attributes,Whispersync
+Miscellaneous Attributes,Wireless Unit Compatible
+Miscellaneous Attributes,Wireless Adapter Compatible
+Miscellaneous Attributes,Wii Virtual Console
+Miscellaneous Attributes,WiiConnect24 compatible
+Miscellaneous Attributes,WonderGate
+Miscellaneous Attributes,WonderSwan Compatible
+Miscellaneous Attributes,WonderWave
+Miscellaneous Attributes,Wi-Fi Connection
+Miscellaneous Attributes,Xbox 360 Compatible
+Miscellaneous Attributes,Xbox Live Arcade
+Miscellaneous Attributes,Xbox 360 Original
+Miscellaneous Attributes,XNA Indie Games
+Miscellaneous Attributes,Xbox One X Enhanced
+Miscellaneous Attributes,Xbox Original
+Miscellaneous Attributes,Zeeboids Support
+Miscellaneous Attributes,ZX Interface 2
+Miscellaneous Attributes,ZXpand
+Appropriate Ages,3-5 Years
+Appropriate Ages,4-6 Years
+Appropriate Ages,5-7 Years
+N-Gage Arena,Chat / Instant Messaging
+N-Gage Arena,Voice chat
+N-Gage Arena,High scores / Multiplayer Gaming Rankings
+N-Gage Arena,Player clips
+N-Gage Arena,Ladders
+N-Gage Arena,Downloads / Game Extra
+N-Gage Arena,Matchmake
+N-Gage Arena,Friends
+N-Gage Arena,Ghosts
+N-Gage Arena,Spectator Mode
+MacOS Sprockets,DrawSprocket
+MacOS Sprockets,InputSprocket
+MacOS Sprockets,SoundSprocket
+MacOS Sprockets,NetSprocket
+MacOS Sprockets,QuickDraw 3D RAVE
