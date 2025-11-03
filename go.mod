@@ -7,8 +7,10 @@ require (
 	github.com/gocolly/colly v1.2.0
 )
 
+require github.com/jaswdr/faker v1.19.1 // indirect
+
 require (
-	github.com/PuerkitoBio/goquery v1.10.3 
+	github.com/PuerkitoBio/goquery v1.10.3
 	github.com/andybalholm/cascadia v1.3.3 // indirect
 	github.com/antchfx/htmlquery v1.3.4 // indirect
 	github.com/antchfx/xmlquery v1.5.0 // indirect
