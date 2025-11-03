@@ -115,38 +115,6 @@ Metroid Prime: Remastered,Nintendo Switch,Nintendo Switch Online:,Save Data Clou
 Metroid Prime: Remastered,Nintendo Switch,Miscellaneous Attributes:,Handheld mode compatible
 Metroid Prime: Remastered,Nintendo Switch,Miscellaneous Attributes:,Tabletop mode compatible
 Metroid Prime: Remastered,Nintendo Switch,Miscellaneous Attributes:,TV mode compatible
-Elden Ring,Windows,Business Model:,Commercial
-Elden Ring,Windows,Minimum CPU Class Required:,Intel Core i5-8xxx
-Elden Ring,Windows,Minimum OS Class Required:,Windows 10
-Elden Ring,Windows,Supported Systems/Models:,x64 (64-bit)
-Elden Ring,Windows,Minimum RAM Required:,12 GB
-Elden Ring,Windows,Minimum DirectX Version Required:,DirectX 12
-Elden Ring,Windows,Drivers/APIs Supported:,Direct3D
-Elden Ring,Windows,Media Type:,Download
-Elden Ring,Windows,Minimum Video Memory Required:,3 GB
-Elden Ring,Windows,Input Devices Supported/Optional:,Gamepad
-Elden Ring,Windows,Input Devices Supported/Optional:,Keyboard
-Elden Ring,Windows,Input Devices Supported/Optional:,Mouse
-Elden Ring,Windows,Gamepads Supported:,Xbox One/Series Wireless Controller
-Elden Ring,Windows,Additional Hardware Required:,3D Accelerator
-Elden Ring,Windows,Multiplayer Options:,Internet
-Elden Ring,Windows,Multiplayer Game Modes:,Co-Op
-Elden Ring,Windows,Multiplayer Game Modes:,Team
-Elden Ring,Windows,Number of Offline Players:,1 Player
-Elden Ring,Windows,Number of Online Players:,2-4 Players
-Elden Ring,Windows,Steam:,Achievements
-Elden Ring,Windows,Steam:,Cloud
-Elden Ring,Windows,Steam:,Trading cards
-Elden Ring,Windows,Save Game Methods:,Internal Storage
-Elden Ring,Windows,Save Game Methods:,Cloud (Online)
-Elden Ring,Xbox One,Business Model:,Commercial
-Elden Ring,Xbox One,Media Type:,Download
-Elden Ring,Xbox One,Multiplayer Game Modes:,Co-Op
-Elden Ring,Xbox One,Xbox/Windows Live:,Achievements
-Elden Ring,Xbox Series,Business Model:,Commercial
-Elden Ring,Xbox Series,Media Type:,Download
-Elden Ring,Xbox Series,Multiplayer Game Modes:,Co-Op
-Elden Ring,Xbox Series,Xbox/Windows Live:,Achievements
 Hades II,Macintosh,Business Model:,Commercial
 Hades II,Macintosh,Minimum OS Class Required:,macOS 12 (Monterey)
 Hades II,Macintosh,Supported Systems/Models:,x64 (64-bit)
@@ -183,6 +151,38 @@ Hades II,Windows,Steam:,Achievements
 Hades II,Windows,Steam:,Cloud
 Hades II,Windows,Save Game Methods:,Internal Storage
 Hades II,Windows,Save Game Methods:,Cloud (Online)
+Elden Ring,Windows,Business Model:,Commercial
+Elden Ring,Windows,Minimum CPU Class Required:,Intel Core i5-8xxx
+Elden Ring,Windows,Minimum OS Class Required:,Windows 10
+Elden Ring,Windows,Supported Systems/Models:,x64 (64-bit)
+Elden Ring,Windows,Minimum RAM Required:,12 GB
+Elden Ring,Windows,Minimum DirectX Version Required:,DirectX 12
+Elden Ring,Windows,Drivers/APIs Supported:,Direct3D
+Elden Ring,Windows,Media Type:,Download
+Elden Ring,Windows,Minimum Video Memory Required:,3 GB
+Elden Ring,Windows,Input Devices Supported/Optional:,Gamepad
+Elden Ring,Windows,Input Devices Supported/Optional:,Keyboard
+Elden Ring,Windows,Input Devices Supported/Optional:,Mouse
+Elden Ring,Windows,Gamepads Supported:,Xbox One/Series Wireless Controller
+Elden Ring,Windows,Additional Hardware Required:,3D Accelerator
+Elden Ring,Windows,Multiplayer Options:,Internet
+Elden Ring,Windows,Multiplayer Game Modes:,Co-Op
+Elden Ring,Windows,Multiplayer Game Modes:,Team
+Elden Ring,Windows,Number of Offline Players:,1 Player
+Elden Ring,Windows,Number of Online Players:,2-4 Players
+Elden Ring,Windows,Steam:,Achievements
+Elden Ring,Windows,Steam:,Cloud
+Elden Ring,Windows,Steam:,Trading cards
+Elden Ring,Windows,Save Game Methods:,Internal Storage
+Elden Ring,Windows,Save Game Methods:,Cloud (Online)
+Elden Ring,Xbox One,Business Model:,Commercial
+Elden Ring,Xbox One,Media Type:,Download
+Elden Ring,Xbox One,Multiplayer Game Modes:,Co-Op
+Elden Ring,Xbox One,Xbox/Windows Live:,Achievements
+Elden Ring,Xbox Series,Business Model:,Commercial
+Elden Ring,Xbox Series,Media Type:,Download
+Elden Ring,Xbox Series,Multiplayer Game Modes:,Co-Op
+Elden Ring,Xbox Series,Xbox/Windows Live:,Achievements
 Metaphor: ReFantazio,Windows,Business Model:,Commercial
 Metaphor: ReFantazio,Windows,Minimum CPU Class Required:,Intel Core i5-3xxx
 Metaphor: ReFantazio,Windows,Minimum OS Class Required:,Windows 10
@@ -622,29 +622,6 @@ Blue Prince,Windows,Steam:,Achievements
 Blue Prince,Windows,Steam:,Cloud
 Blue Prince,Windows,Save Game Methods:,Internal Storage
 Blue Prince,Windows,Save Game Methods:,Cloud (Online)
-Ghost of Tsushima: Director's Cut,PlayStation 5,Business Model:,Commercial
-Ghost of Tsushima: Director's Cut,PlayStation 5,Media Type:,Download
-Ghost of Tsushima: Director's Cut,PlayStation 5,Media Type:,UHD Blu-ray Disc
-Ghost of Tsushima: Director's Cut,PlayStation 5,Input Devices Supported/Optional:,Gamepad
-Ghost of Tsushima: Director's Cut,PlayStation 5,Gamepads Supported:,DualSense Controller
-Ghost of Tsushima: Director's Cut,PlayStation 5,Multiplayer Options:,Internet
-Ghost of Tsushima: Director's Cut,PlayStation 5,Number of Offline Players:,1 Player
-Ghost of Tsushima: Director's Cut,PlayStation 5,Number of Online Players:,1-4 Players
-Ghost of Tsushima: Director's Cut,PlayStation 5,PlayStation Network:,Add-on Content (DLC)
-Ghost of Tsushima: Director's Cut,PlayStation 5,PlayStation Network:,Trophies
-Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Auto-save
-Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Manual Save
-Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Internal Storage
-Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Cloud (Online)
-Ghost of Tsushima: Director's Cut,PlayStation 5,Miscellaneous Attributes:,Game Help supported
-Ghost of Tsushima: Director's Cut,PlayStation 5,Miscellaneous Attributes:,In-app/game/skill Purchase
-Ghost of Tsushima: Director's Cut,PlayStation 5,Miscellaneous Attributes:,PS Plus required for online play
-Ghost of Tsushima: Director's Cut,Windows,Business Model:,Commercial
-Ghost of Tsushima: Director's Cut,Windows,Minimum CPU Class Required:,Intel Core i3-7xxx
-Ghost of Tsushima: Director's Cut,Windows,Minimum OS Class Required:,Windows 10
-Ghost of Tsushima: Director's Cut,Windows,Supported Systems/Models:,x64 (64-bit)
-Ghost of Tsushima: Director's Cut,Windows,Minimum RAM Required:,8 GB
-Ghost of Tsushima: Director's Cut,Windows,Media Type:,Download
 Psychonauts 2,Linux,Business Model:,Commercial
 Psychonauts 2,Linux,Minimum CPU Class Required:,Intel Core i3-32xx
 Psychonauts 2,Linux,Supported Systems/Models:,x64 (64-bit)
@@ -841,6 +818,29 @@ Final Fantasy VII: Remake,PlayStation 4,Input Devices Supported/Optional:,Gamepa
 Final Fantasy VII: Remake,PlayStation 4,Gamepads Supported:,DualShock 4
 Final Fantasy VII: Remake,PlayStation 4,Number of Offline Players:,1 Player
 Final Fantasy VII: Remake,PlayStation 4,Miscellaneous Attributes:,PS4 Pro Enhanced/Support
+Ghost of Tsushima: Director's Cut,PlayStation 5,Business Model:,Commercial
+Ghost of Tsushima: Director's Cut,PlayStation 5,Media Type:,Download
+Ghost of Tsushima: Director's Cut,PlayStation 5,Media Type:,UHD Blu-ray Disc
+Ghost of Tsushima: Director's Cut,PlayStation 5,Input Devices Supported/Optional:,Gamepad
+Ghost of Tsushima: Director's Cut,PlayStation 5,Gamepads Supported:,DualSense Controller
+Ghost of Tsushima: Director's Cut,PlayStation 5,Multiplayer Options:,Internet
+Ghost of Tsushima: Director's Cut,PlayStation 5,Number of Offline Players:,1 Player
+Ghost of Tsushima: Director's Cut,PlayStation 5,Number of Online Players:,1-4 Players
+Ghost of Tsushima: Director's Cut,PlayStation 5,PlayStation Network:,Add-on Content (DLC)
+Ghost of Tsushima: Director's Cut,PlayStation 5,PlayStation Network:,Trophies
+Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Auto-save
+Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Manual Save
+Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Internal Storage
+Ghost of Tsushima: Director's Cut,PlayStation 5,Save Game Methods:,Cloud (Online)
+Ghost of Tsushima: Director's Cut,PlayStation 5,Miscellaneous Attributes:,Game Help supported
+Ghost of Tsushima: Director's Cut,PlayStation 5,Miscellaneous Attributes:,In-app/game/skill Purchase
+Ghost of Tsushima: Director's Cut,PlayStation 5,Miscellaneous Attributes:,PS Plus required for online play
+Ghost of Tsushima: Director's Cut,Windows,Business Model:,Commercial
+Ghost of Tsushima: Director's Cut,Windows,Minimum CPU Class Required:,Intel Core i3-7xxx
+Ghost of Tsushima: Director's Cut,Windows,Minimum OS Class Required:,Windows 10
+Ghost of Tsushima: Director's Cut,Windows,Supported Systems/Models:,x64 (64-bit)
+Ghost of Tsushima: Director's Cut,Windows,Minimum RAM Required:,8 GB
+Ghost of Tsushima: Director's Cut,Windows,Media Type:,Download
 Monster Hunter: Wilds,Windows,Business Model:,Commercial
 Monster Hunter: Wilds,Windows,Minimum OS Class Required:,Windows 10
 Monster Hunter: Wilds,Windows,Supported Systems/Models:,x64 (64-bit)
@@ -3563,34 +3563,6 @@ NORCO,Xbox Series,Input Devices Supported/Optional:,Gamepad
 NORCO,Xbox Series,Number of Offline Players:,1 Player
 NORCO,Xbox Series,Xbox/Windows Live:,Achievements
 NORCO,Xbox Series,Save Game Methods:,Cloud (Online)
-Silent Hill f,Windows,Business Model:,Commercial
-Silent Hill f,Windows,Minimum CPU Class Required:,Intel Core i5-8xxx
-Silent Hill f,Windows,Minimum OS Class Required:,Windows 11
-Silent Hill f,Windows,Supported Systems/Models:,x64 (64-bit)
-Silent Hill f,Windows,Minimum RAM Required:,16 GB
-Silent Hill f,Windows,Minimum DirectX Version Required:,DirectX 12
-Silent Hill f,Windows,Drivers/APIs Supported:,Direct3D
-Silent Hill f,Windows,Media Type:,Download
-Silent Hill f,Windows,3D Graphics Cards / Accelerators Supported:,Nvidia (GeForce 10 series)
-Silent Hill f,Windows,3D Graphics Cards / Accelerators Supported:,Nvidia (GeForce 16 series)
-Silent Hill f,Windows,3D Graphics Cards / Accelerators Supported:,Nvidia (GeForce 20 series)
-Silent Hill f,Windows,Input Devices Supported/Optional:,Gamepad
-Silent Hill f,Windows,Input Devices Supported/Optional:,Keyboard
-Silent Hill f,Windows,Input Devices Supported/Optional:,Mouse
-Silent Hill f,Windows,Gamepads Supported:,DualShock 4
-Silent Hill f,Windows,Gamepads Supported:,DualSense Controller
-Silent Hill f,Windows,Gamepads Supported:,Xbox One/Series Wireless Controller
-Silent Hill f,Windows,Additional Hardware Required:,3D Accelerator
-Silent Hill f,Windows,Number of Offline Players:,1 Player
-Silent Hill f,Windows,GOG.com:,Achievements
-Silent Hill f,Windows,GOG.com:,Cloud saves
-Silent Hill f,Windows,GOG.com:,Controller support
-Silent Hill f,Windows,GOG.com:,Overlay
-Silent Hill f,Windows,GOG.com:,Single-player
-Silent Hill f,Windows,Steam:,Achievements
-Silent Hill f,Windows,Steam:,Cloud
-Silent Hill f,Windows,Save Game Methods:,Internal Storage
-Silent Hill f,Windows,Save Game Methods:,Cloud (Online)
 Sword of the Sea,Windows,Business Model:,Commercial
 Sword of the Sea,Windows,Minimum OS Class Required:,Windows 10
 Sword of the Sea,Windows,Supported Systems/Models:,x64 (64-bit)
@@ -3660,6 +3632,34 @@ NieR Replicant ver.1.22474487139...,Xbox Series,Input Devices Supported/Optional
 NieR Replicant ver.1.22474487139...,Xbox Series,Number of Offline Players:,1 Player
 NieR Replicant ver.1.22474487139...,Xbox Series,Xbox/Windows Live:,Achievements
 NieR Replicant ver.1.22474487139...,Xbox Series,Save Game Methods:,Cloud (Online)
+Silent Hill f,Windows,Business Model:,Commercial
+Silent Hill f,Windows,Minimum CPU Class Required:,Intel Core i5-8xxx
+Silent Hill f,Windows,Minimum OS Class Required:,Windows 11
+Silent Hill f,Windows,Supported Systems/Models:,x64 (64-bit)
+Silent Hill f,Windows,Minimum RAM Required:,16 GB
+Silent Hill f,Windows,Minimum DirectX Version Required:,DirectX 12
+Silent Hill f,Windows,Drivers/APIs Supported:,Direct3D
+Silent Hill f,Windows,Media Type:,Download
+Silent Hill f,Windows,3D Graphics Cards / Accelerators Supported:,Nvidia (GeForce 10 series)
+Silent Hill f,Windows,3D Graphics Cards / Accelerators Supported:,Nvidia (GeForce 16 series)
+Silent Hill f,Windows,3D Graphics Cards / Accelerators Supported:,Nvidia (GeForce 20 series)
+Silent Hill f,Windows,Input Devices Supported/Optional:,Gamepad
+Silent Hill f,Windows,Input Devices Supported/Optional:,Keyboard
+Silent Hill f,Windows,Input Devices Supported/Optional:,Mouse
+Silent Hill f,Windows,Gamepads Supported:,DualShock 4
+Silent Hill f,Windows,Gamepads Supported:,DualSense Controller
+Silent Hill f,Windows,Gamepads Supported:,Xbox One/Series Wireless Controller
+Silent Hill f,Windows,Additional Hardware Required:,3D Accelerator
+Silent Hill f,Windows,Number of Offline Players:,1 Player
+Silent Hill f,Windows,GOG.com:,Achievements
+Silent Hill f,Windows,GOG.com:,Cloud saves
+Silent Hill f,Windows,GOG.com:,Controller support
+Silent Hill f,Windows,GOG.com:,Overlay
+Silent Hill f,Windows,GOG.com:,Single-player
+Silent Hill f,Windows,Steam:,Achievements
+Silent Hill f,Windows,Steam:,Cloud
+Silent Hill f,Windows,Save Game Methods:,Internal Storage
+Silent Hill f,Windows,Save Game Methods:,Cloud (Online)
 Lost Judgment,PlayStation 5,Business Model:,Commercial
 Lost Judgment,PlayStation 5,Media Type:,Download
 Lost Judgment,PlayStation 5,Media Type:,UHD Blu-ray Disc

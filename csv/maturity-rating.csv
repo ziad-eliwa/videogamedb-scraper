@@ -1,208 +1,3645 @@
-ESRB Rating,Early Childhood
-ESRB Rating,Kids to Adults
-ESRB Rating,Everyone
-ESRB Rating,Everyone 10+
-ESRB Rating,Teen
-ESRB Rating,Mature
-ESRB Rating,Adults Only
-ESRB Rating,Unrated
-PEGI Rating,3
-PEGI Rating,7
-PEGI Rating,12
-PEGI Rating,16
-PEGI Rating,18
-PEGI Rating,Unrated
-USK Rating,0 (ohne Altersbeschränkung)
-USK Rating,6
-USK Rating,12
-USK Rating,16
-USK Rating,18 (keine Jugendfreigabe)
-USK Rating,keine Kennzeichnung
-RARS Rating,0+
-RARS Rating,6+
-RARS Rating,12+
-RARS Rating,16+
-RARS Rating,18+
-CERO Rating,Educational/Database
-CERO Rating,Compliance with Regulations
-CERO Rating,Examination Schedule
-CERO Rating,All Ages
-CERO Rating,12+
-CERO Rating,15+
-CERO Rating,18+
-CERO Rating,A
-CERO Rating,B
-CERO Rating,C
-CERO Rating,D
-CERO Rating,Z
-GRAC Rating,All
-GRAC Rating,12+
-GRAC Rating,15+
-GRAC Rating,18+
-GRAC Rating,19+
-ACB Rating,G
-ACB Rating,G8+
-ACB Rating,M15+
-ACB Rating,MA15+
-ACB Rating,PG
-ACB Rating,M
-ACB Rating,MA 15+
-ACB Rating,RC
-ACB Rating,R18+
-OFLC (New Zealand) Rating,G
-OFLC (New Zealand) Rating,PG
-OFLC (New Zealand) Rating,M
-OFLC (New Zealand) Rating,R13
-OFLC (New Zealand) Rating,R16
-OFLC (New Zealand) Rating,R18
-OFLC (New Zealand) Rating,Objectionable
-ClassInd Rating,L
-ClassInd Rating,10
-ClassInd Rating,12
-ClassInd Rating,14
-ClassInd Rating,16
-ClassInd Rating,18
-SMECCV Rating,A (Todo Público)
-SMECCV Rating,B (+12 Años)
-SMECCV Rating,B15 (+15 Años)
-SMECCV Rating,C (Adultos +18 Años)
-SMECCV Rating,D (Exclusivo Adultos)
-FPB Rating,A
-FPB Rating,13
-FPB Rating,16
-FPB Rating,18
-GSRR/TESRI Rating,General (0+)
-GSRR/TESRI Rating,Protected (6+)
-GSRR/TESRI Rating,Parental Guidance
-GSRR/TESRI Rating,Parental Guidance (12+)
-GSRR/TESRI Rating,Parental Guidance (15+)
-GSRR/TESRI Rating,Restricted (18+)
-NMC Rating,3
-NMC Rating,7
-NMC Rating,12
-NMC Rating,16
-NMC Rating,18
-NMC Rating,21
-GCAM Rating,3
-GCAM Rating,7
-GCAM Rating,12
-GCAM Rating,16
-GCAM Rating,18
-IMDA rating,For all ages
-IMDA rating,ADV16
-IMDA rating,M18
-CCC (Chile) Rating,Especialmente Recomendado (ER)
-CCC (Chile) Rating,Toda Edad (TE)
-CCC (Chile) Rating,8+
-CCC (Chile) Rating,14+
-CCC (Chile) Rating,18+
-ESRA Rating,3+
-ESRA Rating,7+
-ESRA Rating,12+
-ESRA Rating,15+
-ESRA Rating,18+
-ESRA Rating,25+
-IARC Rating,3+
-IARC Rating,7+
-IARC Rating,12+
-IARC Rating,16+
-IARC Rating,18+
-VRCR Rating,Comfortable
-VRCR Rating,Moderate
-VRCR Rating,Intense
-VRCR Rating,Unrated
-Apple Rating,4+
-Apple Rating,9+
-Apple Rating,12+
-Apple Rating,17+
-Amazon Rating,All Ages
-Amazon Rating,Guidance Suggested
-Amazon Rating,Mature
-DGRS Rating,All Ages
-DGRS Rating,Teen
-DGRS Rating,Mature
-SEGA Rating,推奨年齢　全年齢 / Suitable for All Ages
-SEGA Rating,推奨年齢　年齢制限　１８才以上 / Unsuitable for People Under 18
-SEGA Rating,Ｘ指定　１８才以上 / Unsuitable for People Under 18 - X Rated
-SEGA Rating,推奨年齢　ＭＡ－１８ / Suitable Only for Adults - Mature
-SEGA Rating,成人用　１８才未満お断り / Suitable Only for Adults - Unsuitable for People Under 18
-SEGA Rating,Unrated
-SEGA Rating,暴力などの表現が含まれています / Violent Content
-VRC Rating,GA
-VRC Rating,MA-13
-VRC Rating,MA-17
-3DO Rating,E
-3DO Rating,12
-3DO Rating,16
-3DO Rating,17
-3DO Rating,AO
-RSAC Rating,All
-RSAC Rating,Level 1
-RSAC Rating,Level 2
-RSAC Rating,Level 3
-RSAC Rating,Level 4
-TIGRS Rating,Family Friendly
-TIGRS Rating,Teen Content
-TIGRS Rating,Adult Content
-BBFC Rating,U
-BBFC Rating,Uc
-BBFC Rating,PG
-BBFC Rating,12
-BBFC Rating,15
-BBFC Rating,18
-ELSPA Rating,3+
-ELSPA Rating,11+
-ELSPA Rating,15+
-ELSPA Rating,18+
-SELL Rating,TP
-SELL Rating,12
-SELL Rating,16
-SELL Rating,18
-aDeSe Rating,TP
-aDeSe Rating,+13
-aDeSe Rating,+16
-aDeSe Rating,+18
-Kijkwijzer Rating,AL
-Kijkwijzer Rating,6
-Kijkwijzer Rating,9
-Kijkwijzer Rating,12
-Kijkwijzer Rating,16
-VET/SFB Rating,S/T (Circle)
-VET/SFB Rating,S/T (Square)
-VET/SFB Rating,3 (Circle)
-VET/SFB Rating,3 (Square)
-VET/SFB Rating,7 (Circle)
-VET/SFB Rating,7 (Square)
-VET/SFB Rating,11 (Circle)
-VET/SFB Rating,11 (Square)
-VET/SFB Rating,12 (Square)
-VET/SFB Rating,15 (Circle)
-VET/SFB Rating,15 (Square)
-VET/SFB Rating,18 (Circle)
-VET/SFB Rating,18 (Square)
-COIAO Rating,Class I (Neither Obscene nor Indecent)
-COIAO Rating,Class II (Indecent)
-COIAO Rating,Class III (Obscene)
-CCE (IGAC) Rating,M/4
-CCE (IGAC) Rating,M/6
-CCE (IGAC) Rating,M/12
-CCE (IGAC) Rating,M/16
-CCE (IGAC) Rating,M/18
-IFCO Rating,G
-IFCO Rating,PG
-IFCO Rating,12
-IFCO Rating,15
-IFCO Rating,18
-DJCTQ Rating,Livre
-DJCTQ Rating,12
-DJCTQ Rating,14
-DJCTQ Rating,16
-DJCTQ Rating,18
-KMRB Rating,All
-KMRB Rating,12-year+
-KMRB Rating,15-year+
-KMRB Rating,Teenager restricted
-KMRB Rating,Restricted
-CADPA Rating,8+
-CADPA Rating,12+
-CADPA Rating,16+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,M
+ACB Rating:,G
+ACB Rating:,M
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,R18+
+ACB Rating:,R18+
+ACB Rating:,M
+ACB Rating:,G
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,M
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,M
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,R18+
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,MA 15+
+ACB Rating:,M
+ACB Rating:,MA 15+
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,G
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,R18+
+ACB Rating:,MA 15+
+ACB Rating:,R18+
+ACB Rating:,R18+
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,G
+ACB Rating:,PG
+ACB Rating:,G
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,R18+
+ACB Rating:,R18+
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,G
+ACB Rating:,PG
+ACB Rating:,M
+ACB Rating:,MA 15+
+ACB Rating:,G
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,R18+
+ACB Rating:,R18+
+ACB Rating:,R18+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,MA 15+
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,PG
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,G
+ACB Rating:,M
+ACB Rating:,M
+ACB Rating:,PG
+ACB Rating:,PG
+Apple Rating:,17+
+Apple Rating:,17+
+Apple Rating:,12+
+Apple Rating:,12+
+Apple Rating:,17+
+Apple Rating:,17+
+Apple Rating:,12+
+Apple Rating:,12+
+Apple Rating:,9+
+Apple Rating:,9+
+Apple Rating:,12+
+Apple Rating:,12+
+Apple Rating:,12+
+Apple Rating:,12+
+Apple Rating:,4+
+Apple Rating:,4+
+Apple Rating:,4+
+Apple Rating:,4+
+CCC (Chile) Rating:,8+
+CCC (Chile) Rating:,8+
+CCC (Chile) Rating:,14+
+CCC (Chile) Rating:,14+
+CCC (Chile) Rating:,14+
+CCC (Chile) Rating:,Toda Edad (TE)
+CCC (Chile) Rating:,Toda Edad (TE)
+CERO Rating:,B
+CERO Rating:,A
+CERO Rating:,B
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,C
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,B
+CERO Rating:,Z
+CERO Rating:,D
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,Z
+CERO Rating:,C
+CERO Rating:,B
+CERO Rating:,A
+CERO Rating:,B
+CERO Rating:,Z
+CERO Rating:,B
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,Z
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,D
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,A
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,B
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,B
+CERO Rating:,Z
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,A
+CERO Rating:,A
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,D
+CERO Rating:,A
+CERO Rating:,A
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,D
+CERO Rating:,B
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,B
+CERO Rating:,A
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,A
+CERO Rating:,D
+CERO Rating:,Z
+CERO Rating:,D
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,A
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,A
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,A
+CERO Rating:,Z
+CERO Rating:,Z
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,A
+CERO Rating:,D
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,D
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,B
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,A
+CERO Rating:,A
+CERO Rating:,A
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,D
+CERO Rating:,D
+CERO Rating:,C
+CERO Rating:,C
+CERO Rating:,D
+ClassInd Rating:,16
+ClassInd Rating:,16
+ClassInd Rating:,L
+ClassInd Rating:,18
+ClassInd Rating:,18
+ClassInd Rating:,14
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,18
+ClassInd Rating:,L
+ClassInd Rating:,16
+ClassInd Rating:,18
+ClassInd Rating:,18
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,18
+ClassInd Rating:,14
+ClassInd Rating:,10
+ClassInd Rating:,L
+ClassInd Rating:,14
+ClassInd Rating:,12
+ClassInd Rating:,16
+ClassInd Rating:,14
+ClassInd Rating:,L
+ClassInd Rating:,16
+ClassInd Rating:,16
+ClassInd Rating:,18
+ClassInd Rating:,L
+ClassInd Rating:,10
+ClassInd Rating:,12
+ClassInd Rating:,18
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,18
+ClassInd Rating:,14
+ClassInd Rating:,14
+ClassInd Rating:,L
+ClassInd Rating:,14
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,14
+ClassInd Rating:,14
+ClassInd Rating:,14
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,14
+ClassInd Rating:,14
+ClassInd Rating:,14
+ClassInd Rating:,18
+ClassInd Rating:,18
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,16
+ClassInd Rating:,L
+ClassInd Rating:,16
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,10
+ClassInd Rating:,10
+ClassInd Rating:,10
+ClassInd Rating:,10
+ClassInd Rating:,10
+ClassInd Rating:,L
+ClassInd Rating:,14
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,12
+ClassInd Rating:,16
+ClassInd Rating:,18
+ClassInd Rating:,18
+ClassInd Rating:,18
+ClassInd Rating:,18
+ClassInd Rating:,18
+ClassInd Rating:,12
+ClassInd Rating:,16
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,16
+ClassInd Rating:,12
+ClassInd Rating:,L
+ClassInd Rating:,12
+ClassInd Rating:,10
+ClassInd Rating:,10
+ClassInd Rating:,10
+ClassInd Rating:,12
+ClassInd Rating:,12
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,L
+ClassInd Rating:,14
+ClassInd Rating:,12
+ClassInd Rating:,12
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Mature
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+FPB Rating:,13
+FPB Rating:,13
+GCAM Rating:,18
+GCAM Rating:,18
+GCAM Rating:,16
+GCAM Rating:,16
+GCAM Rating:,16
+GCAM Rating:,3
+GCAM Rating:,7
+GCAM Rating:,7
+GCAM Rating:,16
+GCAM Rating:,3
+GCAM Rating:,7
+GCAM Rating:,7
+GCAM Rating:,7
+GCAM Rating:,7
+GCAM Rating:,7
+GCAM Rating:,12
+GCAM Rating:,16
+GRAC Rating:,18+
+GRAC Rating:,All
+GRAC Rating:,18+
+GRAC Rating:,18+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,All
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,12+
+GRAC Rating:,15+
+GRAC Rating:,12+
+GRAC Rating:,All
+GRAC Rating:,All
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,19+
+GRAC Rating:,18+
+GRAC Rating:,18+
+GRAC Rating:,All
+GRAC Rating:,All
+GRAC Rating:,All
+GRAC Rating:,All
+GRAC Rating:,All
+GRAC Rating:,12+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,18+
+GRAC Rating:,18+
+GRAC Rating:,18+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,18+
+GRAC Rating:,18+
+GRAC Rating:,18+
+GRAC Rating:,18+
+GRAC Rating:,19+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,All
+GRAC Rating:,18+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,All
+GRAC Rating:,15+
+GRAC Rating:,All
+GRAC Rating:,12+
+GRAC Rating:,15+
+GRAC Rating:,All
+GRAC Rating:,All
+GRAC Rating:,15+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,15+
+GRAC Rating:,All
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,12+
+GRAC Rating:,18+
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GSRR/TESRI Rating:,Protected (6+)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Restricted (18+)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GSRR/TESRI Rating:,General (0+)
+GSRR/TESRI Rating:,General (0+)
+GSRR/TESRI Rating:,General (0+)
+GSRR/TESRI Rating:,General (0+)
+IARC Rating:,18+
+IARC Rating:,18+
+IARC Rating:,18+
+IARC Rating:,3+
+IARC Rating:,16+
+IARC Rating:,3+
+IARC Rating:,3+
+IARC Rating:,12+
+IARC Rating:,12+
+IARC Rating:,12+
+IARC Rating:,12+
+IARC Rating:,18+
+IARC Rating:,18+
+IARC Rating:,18+
+IARC Rating:,12+
+IARC Rating:,12+
+IARC Rating:,16+
+IARC Rating:,16+
+IARC Rating:,16+
+IARC Rating:,12+
+IARC Rating:,16+
+IARC Rating:,3+
+IARC Rating:,12+
+IARC Rating:,7+
+IARC Rating:,7+
+IARC Rating:,18+
+IARC Rating:,18+
+IARC Rating:,18+
+IARC Rating:,12+
+IARC Rating:,12+
+IARC Rating:,12+
+IARC Rating:,12+
+IARC Rating:,16+
+IARC Rating:,3+
+IARC Rating:,3+
+IARC Rating:,3+
+IARC Rating:,3+
+IARC Rating:,3+
+IARC Rating:,12+
+IMDA rating:,ADV16
+IMDA rating:,For all ages
+IMDA rating:,For all ages
+IMDA rating:,M18
+IMDA rating:,For all ages
+NMC Rating:,18
+NMC Rating:,3
+NMC Rating:,7
+NMC Rating:,7
+NMC Rating:,7
+NMC Rating:,7
+NMC Rating:,7
+NMC Rating:,12
+OFLC (New Zealand) Rating:,R13
+OFLC (New Zealand) Rating:,R16
+OFLC (New Zealand) Rating:,R16
+OFLC (New Zealand) Rating:,M
+OFLC (New Zealand) Rating:,G
+OFLC (New Zealand) Rating:,G
+OFLC (New Zealand) Rating:,R16
+OFLC (New Zealand) Rating:,M
+OFLC (New Zealand) Rating:,R13
+OFLC (New Zealand) Rating:,R13
+OFLC (New Zealand) Rating:,R13
+OFLC (New Zealand) Rating:,M
+OFLC (New Zealand) Rating:,PG
+OFLC (New Zealand) Rating:,PG
+OFLC (New Zealand) Rating:,PG
+OFLC (New Zealand) Rating:,PG
+OFLC (New Zealand) Rating:,PG
+OFLC (New Zealand) Rating:,M
+OFLC (New Zealand) Rating:,R16
+OFLC (New Zealand) Rating:,R16
+OFLC (New Zealand) Rating:,R16
+OFLC (New Zealand) Rating:,R16
+OFLC (New Zealand) Rating:,R13
+OFLC (New Zealand) Rating:,G
+OFLC (New Zealand) Rating:,G
+OFLC (New Zealand) Rating:,G
+OFLC (New Zealand) Rating:,G
+OFLC (New Zealand) Rating:,G
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,3
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,7
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,3
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,18
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,3
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,3
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,3
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,16
+PEGI Rating:,7
+PEGI Rating:,7
+PEGI Rating:,12
+PEGI Rating:,18
+PEGI Rating:,7
+PEGI Rating:,16
+PEGI Rating:,3
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,3
+PEGI Rating:,16
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+RARS Rating:,18+
+RARS Rating:,12+
+RARS Rating:,18+
+RARS Rating:,12+
+RARS Rating:,12+
+RARS Rating:,12+
+RARS Rating:,12+
+RARS Rating:,0+
+RARS Rating:,18+
+RARS Rating:,6+
+RARS Rating:,0+
+RARS Rating:,12+
+RARS Rating:,6+
+RARS Rating:,18+
+RARS Rating:,16+
+RARS Rating:,18+
+RARS Rating:,16+
+RARS Rating:,16+
+RARS Rating:,6+
+RARS Rating:,6+
+RARS Rating:,18+
+RARS Rating:,12+
+RARS Rating:,16+
+RARS Rating:,16+
+RARS Rating:,16+
+RARS Rating:,16+
+RARS Rating:,18+
+RARS Rating:,18+
+RARS Rating:,18+
+RARS Rating:,18+
+RARS Rating:,12+
+RARS Rating:,18+
+RARS Rating:,16+
+RARS Rating:,16+
+RARS Rating:,12+
+RARS Rating:,12+
+RARS Rating:,12+
+RARS Rating:,18+
+RARS Rating:,16+
+RARS Rating:,12+
+RARS Rating:,6+
+RARS Rating:,6+
+RARS Rating:,18+
+RARS Rating:,16+
+RARS Rating:,16+
+RARS Rating:,6+
+RARS Rating:,18+
+RARS Rating:,18+
+RARS Rating:,18+
+RARS Rating:,18+
+RARS Rating:,18+
+RARS Rating:,0+
+RARS Rating:,16+
+RARS Rating:,12+
+RARS Rating:,12+
+RARS Rating:,16+
+RARS Rating:,18+
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,A (Todo Público)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B (+12 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,C (Adultos +18 Años)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,6
+USK Rating:,12
+USK Rating:,16
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,12
+USK Rating:,6
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,6
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,12
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,12
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,16
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,6
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,6
+USK Rating:,6
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,6
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,6
+USK Rating:,6
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,6
+USK Rating:,6
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,16
+USK Rating:,16
+USK Rating:,16
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,12
+USK Rating:,16
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,6
+USK Rating:,12
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,12
+USK Rating:,6
+USK Rating:,6
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,16
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,16
+USK Rating:,6
+USK Rating:,16
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,6
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,6
+USK Rating:,6
+USK Rating:,16
+USK Rating:,6
+USK Rating:,6
+USK Rating:,16
+USK Rating:,12
+USK Rating:,16
+USK Rating:,6
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,6
+USK Rating:,16
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,16
+USK Rating:,16
+USK Rating:,16
+USK Rating:,16
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,16
+USK Rating:,18 (keine Jugendfreigabe)
+USK Rating:,12
+USK Rating:,16
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,6
+USK Rating:,6
+USK Rating:,12
+USK Rating:,6
+USK Rating:,6
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,0 (ohne Altersbeschränkung)
+USK Rating:,12
+USK Rating:,12
+USK Rating:,16
+USK Rating:,6
+USK Rating:,6
+USK Rating:,16
+USK Rating:,16
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+USK Rating:,12
+VRCR Rating:,Comfortable
+,
+,
+ClassInd Rating:,10
+GSRR/TESRI Rating:,Parental Guidance (12+)
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+GRAC Rating:,15+
+ACB Rating:,PG
+ClassInd Rating:,10
+GSRR/TESRI Rating:,Parental Guidance (15+)
+CCC (Chile) Rating:,14+
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+GRAC Rating:,15+
+ACB Rating:,PG
+ClassInd Rating:,10
+GSRR/TESRI Rating:,Parental Guidance (15+)
+CCC (Chile) Rating:,14+
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+RARS Rating:,16+
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,12
+FPB Rating:,13
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GCAM Rating:,16
+CCC (Chile) Rating:,14+
+IARC Rating:,16+
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,16
+CERO Rating:,C
+ESRB Rating:,Mature
+PEGI Rating:,16
+CERO Rating:,C
+ESRB Rating:,Teen
+PEGI Rating:,12
+ACB Rating:,PG
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+GRAC Rating:,All
+ACB Rating:,G
+ClassInd Rating:,L
+IARC Rating:,3+
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+IARC Rating:,3+
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+IARC Rating:,3+
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+CCC (Chile) Rating:,Toda Edad (TE)
+IARC Rating:,3+
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+CCC (Chile) Rating:,Toda Edad (TE)
+IARC Rating:,3+
+Apple Rating:,4+
+Apple Rating:,4+
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+ACB Rating:,M
+PEGI Rating:,16
+USK Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,16
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,16
+ACB Rating:,M
+IARC Rating:,12+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,12+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,12+
+ACB Rating:,PG
+ClassInd Rating:,L
+PEGI Rating:,12
+ACB Rating:,PG
+CERO Rating:,D
+CERO Rating:,D
+ESRB Rating:,Teen
+PEGI Rating:,12
+ClassInd Rating:,L
+ClassInd Rating:,L
+ESRB Rating:,Teen
+PEGI Rating:,16
+PEGI Rating:,16
+CERO Rating:,C
+CERO Rating:,C
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,16
+RARS Rating:,16+
+CERO Rating:,D
+GRAC Rating:,18+
+ClassInd Rating:,14
+SMECCV Rating:,C (Adultos +18 Años)
+PEGI Rating:,3
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,16
+RARS Rating:,18+
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+PEGI Rating:,18
+USK Rating:,12
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+ClassInd Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+ClassInd Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ACB Rating:,MA 15+
+ClassInd Rating:,16
+IARC Rating:,18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+GRAC Rating:,18+
+ACB Rating:,MA 15+
+ClassInd Rating:,16
+GSRR/TESRI Rating:,Restricted (18+)
+IARC Rating:,18+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,B
+ACB Rating:,M
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,G
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,B
+ACB Rating:,M
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,12
+PEGI Rating:,12
+CERO Rating:,D
+CERO Rating:,D
+PEGI Rating:,16
+ESRB Rating:,Teen
+ACB Rating:,MA 15+
+ESRB Rating:,Teen
+ACB Rating:,MA 15+
+PEGI Rating:,16
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+CERO Rating:,Z
+ACB Rating:,MA 15+
+GSRR/TESRI Rating:,Restricted (18+)
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R13
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+CERO Rating:,Z
+ACB Rating:,MA 15+
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+CERO Rating:,Z
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+GRAC Rating:,18+
+ACB Rating:,R18+
+OFLC (New Zealand) Rating:,R16
+ClassInd Rating:,18
+GSRR/TESRI Rating:,Restricted (18+)
+NMC Rating:,18
+GCAM Rating:,18
+IARC Rating:,18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+CERO Rating:,Z
+GRAC Rating:,18+
+ACB Rating:,R18+
+OFLC (New Zealand) Rating:,R16
+ClassInd Rating:,18
+GCAM Rating:,18
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,14
+ESRB Rating:,Teen
+PEGI Rating:,16
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,D
+CERO Rating:,D
+PEGI Rating:,18
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,6
+CERO Rating:,A
+ACB Rating:,G
+SMECCV Rating:,A (Todo Público)
+GSRR/TESRI Rating:,Protected (6+)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+OFLC (New Zealand) Rating:,M
+ClassInd Rating:,12
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GCAM Rating:,16
+ESRB Rating:,Teen
+CERO Rating:,C
+ClassInd Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,12
+FPB Rating:,13
+GCAM Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ESRB Rating:,Mature
+CERO Rating:,Z
+ClassInd Rating:,18
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,PG
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+ESRB Rating:,Mature
+CERO Rating:,C
+ClassInd Rating:,16
+PEGI Rating:,16
+ESRB Rating:,Everyone
+PEGI Rating:,7
+PEGI Rating:,7
+CERO Rating:,B
+ClassInd Rating:,12
+PEGI Rating:,7
+CERO Rating:,Z
+ESRB Rating:,Mature
+PEGI Rating:,18
+PEGI Rating:,16
+CERO Rating:,D
+GRAC Rating:,15+
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+RARS Rating:,12+
+CERO Rating:,B
+CERO Rating:,B
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,16
+GRAC Rating:,15+
+ESRB Rating:,Mature
+CERO Rating:,Z
+ClassInd Rating:,18
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ClassInd Rating:,18
+SMECCV Rating:,C (Adultos +18 Años)
+GRAC Rating:,15+
+ClassInd Rating:,12
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ClassInd Rating:,18
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,C
+ACB Rating:,M
+ClassInd Rating:,14
+SMECCV Rating:,B15 (+15 Años)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+IMDA rating:,ADV16
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,B
+GRAC Rating:,12+
+ClassInd Rating:,10
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Everyone
+PEGI Rating:,3
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+RARS Rating:,0+
+CERO Rating:,A
+ACB Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,Protected (6+)
+IARC Rating:,3+
+ACB Rating:,G
+ESRB Rating:,Everyone
+PEGI Rating:,7
+USK Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+ESRB Rating:,Teen
+CERO Rating:,B
+ClassInd Rating:,14
+PEGI Rating:,12
+ESRB Rating:,Everyone
+ACB Rating:,G
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Everyone
+PEGI Rating:,3
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ACB Rating:,MA 15+
+ClassInd Rating:,16
+IARC Rating:,18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+GRAC Rating:,18+
+ACB Rating:,MA 15+
+ClassInd Rating:,16
+GSRR/TESRI Rating:,Restricted (18+)
+IARC Rating:,18+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,B
+ACB Rating:,M
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,G
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,B
+ACB Rating:,M
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,12
+PEGI Rating:,12
+CERO Rating:,D
+CERO Rating:,D
+PEGI Rating:,16
+ESRB Rating:,Teen
+ACB Rating:,MA 15+
+ESRB Rating:,Teen
+ACB Rating:,MA 15+
+PEGI Rating:,16
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+CERO Rating:,Z
+ACB Rating:,MA 15+
+GSRR/TESRI Rating:,Restricted (18+)
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R13
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+CERO Rating:,Z
+ACB Rating:,MA 15+
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+CERO Rating:,Z
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+GRAC Rating:,18+
+ACB Rating:,R18+
+OFLC (New Zealand) Rating:,R16
+ClassInd Rating:,18
+GSRR/TESRI Rating:,Restricted (18+)
+NMC Rating:,18
+GCAM Rating:,18
+IARC Rating:,18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+CERO Rating:,Z
+GRAC Rating:,18+
+ACB Rating:,R18+
+OFLC (New Zealand) Rating:,R16
+ClassInd Rating:,18
+GCAM Rating:,18
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,14
+ESRB Rating:,Teen
+PEGI Rating:,16
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,D
+CERO Rating:,D
+PEGI Rating:,18
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,6
+CERO Rating:,A
+ACB Rating:,G
+SMECCV Rating:,A (Todo Público)
+GSRR/TESRI Rating:,Protected (6+)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+OFLC (New Zealand) Rating:,M
+ClassInd Rating:,12
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GCAM Rating:,16
+ESRB Rating:,Teen
+CERO Rating:,C
+ClassInd Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,12
+FPB Rating:,13
+GCAM Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ESRB Rating:,Mature
+CERO Rating:,Z
+ClassInd Rating:,18
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,PG
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+ESRB Rating:,Mature
+CERO Rating:,C
+ClassInd Rating:,16
+PEGI Rating:,16
+ESRB Rating:,Everyone
+PEGI Rating:,7
+PEGI Rating:,7
+CERO Rating:,B
+ClassInd Rating:,12
+PEGI Rating:,7
+CERO Rating:,Z
+ESRB Rating:,Mature
+PEGI Rating:,18
+PEGI Rating:,16
+CERO Rating:,D
+GRAC Rating:,15+
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+RARS Rating:,12+
+CERO Rating:,B
+CERO Rating:,B
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,16
+GRAC Rating:,15+
+ESRB Rating:,Mature
+CERO Rating:,Z
+ClassInd Rating:,18
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ClassInd Rating:,18
+SMECCV Rating:,C (Adultos +18 Años)
+GRAC Rating:,15+
+ClassInd Rating:,12
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+ClassInd Rating:,18
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,C
+ACB Rating:,M
+ClassInd Rating:,14
+SMECCV Rating:,B15 (+15 Años)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+IMDA rating:,ADV16
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+CERO Rating:,B
+GRAC Rating:,12+
+ClassInd Rating:,10
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Everyone
+PEGI Rating:,3
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+RARS Rating:,0+
+CERO Rating:,A
+ACB Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,Protected (6+)
+IARC Rating:,3+
+ACB Rating:,G
+ESRB Rating:,Everyone
+PEGI Rating:,7
+USK Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+ESRB Rating:,Teen
+CERO Rating:,B
+ClassInd Rating:,14
+PEGI Rating:,12
+ESRB Rating:,Everyone
+ACB Rating:,G
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Everyone
+PEGI Rating:,3
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+PEGI Rating:,7
+CERO Rating:,B
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+GSRR/TESRI Rating:,Parental Guidance (15+)
+GCAM Rating:,16
+PEGI Rating:,16
+ESRB Rating:,Mature
+CERO Rating:,C
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,C
+ACB Rating:,MA 15+
+ClassInd Rating:,16
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+ACB Rating:,MA 15+
+ClassInd Rating:,14
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,R18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+RARS Rating:,18+
+SMECCV Rating:,C (Adultos +18 Años)
+PEGI Rating:,12
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+CERO Rating:,Z
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+CERO Rating:,A
+GRAC Rating:,12+
+ACB Rating:,PG
+ClassInd Rating:,L
+PEGI Rating:,7
+CERO Rating:,C
+ClassInd Rating:,16
+CERO Rating:,C
+ClassInd Rating:,16
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+CERO Rating:,D
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+ACB Rating:,PG
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+ACB Rating:,PG
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+ESRB Rating:,Everyone
+PEGI Rating:,7
+USK Rating:,6
+RARS Rating:,6+
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,G
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ClassInd Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+RARS Rating:,0+
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+SMECCV Rating:,A (Todo Público)
+GSRR/TESRI Rating:,Protected (6+)
+NMC Rating:,3
+GCAM Rating:,3
+IMDA rating:,For all ages
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,12+
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,6
+ACB Rating:,M
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+ACB Rating:,M
+SMECCV Rating:,B15 (+15 Años)
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+ACB Rating:,M
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+RARS Rating:,6+
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,PG
+ClassInd Rating:,10
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Parental Guidance (12+)
+NMC Rating:,7
+GCAM Rating:,7
+PEGI Rating:,7
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,12
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,C
+ACB Rating:,M
+ClassInd Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+ACB Rating:,M
+PEGI Rating:,16
+USK Rating:,12
+Apple Rating:,17+
+Apple Rating:,17+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+SMECCV Rating:,C (Adultos +18 Años)
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,C
+ACB Rating:,MA 15+
+ClassInd Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+RARS Rating:,16+
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,M
+ClassInd Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+ClassInd Rating:,12
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,Z
+GRAC Rating:,19+
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R16
+ClassInd Rating:,18
+SMECCV Rating:,C (Adultos +18 Años)
+GSRR/TESRI Rating:,Restricted (18+)
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+RARS Rating:,18+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,16
+CERO Rating:,C
+ACB Rating:,M
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+RARS Rating:,16+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,M
+ClassInd Rating:,14
+SMECCV Rating:,B15 (+15 Años)
+GSRR/TESRI Rating:,Restricted (18+)
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+RARS Rating:,16+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,M
+ClassInd Rating:,14
+SMECCV Rating:,B15 (+15 Años)
+GSRR/TESRI Rating:,Restricted (18+)
+ESRB Rating:,Teen
+PEGI Rating:,16
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+RARS Rating:,6+
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,G
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+NMC Rating:,7
+GCAM Rating:,7
+IMDA rating:,For all ages
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,16
+ACB Rating:,M
+OFLC (New Zealand) Rating:,M
+ClassInd Rating:,14
+IARC Rating:,16+
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+ACB Rating:,M
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+RARS Rating:,6+
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,PG
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+PEGI Rating:,7
+USK Rating:,6
+ACB Rating:,PG
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,6
+GRAC Rating:,All
+ACB Rating:,PG
+ClassInd Rating:,L
+IARC Rating:,3+
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+PEGI Rating:,3
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,6
+GRAC Rating:,All
+ACB Rating:,PG
+ClassInd Rating:,L
+IARC Rating:,3+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+GRAC Rating:,All
+ACB Rating:,PG
+IARC Rating:,12+
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+GRAC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,12
+ESRB Rating:,Mature
+PEGI Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+GRAC Rating:,15+
+ACB Rating:,MA 15+
+IARC Rating:,12+
+ESRB Rating:,Mature
+PEGI Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+GRAC Rating:,15+
+ACB Rating:,MA 15+
+IARC Rating:,12+
+ESRB Rating:,Mature
+PEGI Rating:,12
+USK Rating:,18 (keine Jugendfreigabe)
+GRAC Rating:,15+
+ACB Rating:,MA 15+
+IARC Rating:,12+
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,16+
+ACB Rating:,M
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,16+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,M
+ClassInd Rating:,14
+GSRR/TESRI Rating:,Restricted (18+)
+IARC Rating:,18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,16+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,M
+ClassInd Rating:,14
+GSRR/TESRI Rating:,Restricted (18+)
+IARC Rating:,18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,16+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,M
+ClassInd Rating:,14
+GSRR/TESRI Rating:,Restricted (18+)
+IARC Rating:,18+
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,M
+ClassInd Rating:,12
+GSRR/TESRI Rating:,Parental Guidance (12+)
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,M
+ClassInd Rating:,12
+GSRR/TESRI Rating:,Parental Guidance (12+)
+IARC Rating:,12+
+PEGI Rating:,12
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,18+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R13
+ClassInd Rating:,14
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,18+
+CERO Rating:,D
+ACB Rating:,MA 15+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,12
+RARS Rating:,18+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R13
+ClassInd Rating:,14
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,18+
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R13
+ClassInd Rating:,14
+ESRB Rating:,Mature
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,16
+CERO Rating:,C
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+SMECCV Rating:,B15 (+15 Años)
+CERO Rating:,C
+CERO Rating:,C
+PEGI Rating:,12
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,D
+ACB Rating:,R18+
+CERO Rating:,A
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+SMECCV Rating:,A (Todo Público)
+CERO Rating:,Z
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+CERO Rating:,Z
+ACB Rating:,MA 15+
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,R18+
+ClassInd Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+CERO Rating:,D
+GRAC Rating:,19+
+ACB Rating:,R18+
+ClassInd Rating:,18
+ESRB Rating:,Teen
+CERO Rating:,B
+CERO Rating:,B
+ESRB Rating:,Everyone
+ESRB Rating:,Teen
+CERO Rating:,D
+Apple Rating:,12+
+Apple Rating:,12+
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+GRAC Rating:,15+
+IARC Rating:,16+
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+GRAC Rating:,15+
+ACB Rating:,M
+IARC Rating:,16+
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+GRAC Rating:,15+
+ACB Rating:,M
+IARC Rating:,16+
+ESRB Rating:,Teen
+PEGI Rating:,12
+ACB Rating:,PG
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+CERO Rating:,B
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+PEGI Rating:,7
+USK Rating:,6
+CERO Rating:,A
+PEGI Rating:,16
+USK Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+RARS Rating:,16+
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,16
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+PEGI Rating:,12
+USK Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,M
+ClassInd Rating:,12
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GCAM Rating:,16
+IARC Rating:,16+
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+PEGI Rating:,7
+PEGI Rating:,7
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+CERO Rating:,A
+ACB Rating:,PG
+SMECCV Rating:,B (+12 Años)
+PEGI Rating:,3
+PEGI Rating:,3
+PEGI Rating:,3
+ESRB Rating:,Teen
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,12
+PEGI Rating:,18
+ESRB Rating:,Mature
+ESRB Rating:,Everyone
+PEGI Rating:,3
+ACB Rating:,G
+IARC Rating:,3+
+PEGI Rating:,7
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,16+
+IARC Rating:,12+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+CERO Rating:,D
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,D
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,C
+CERO Rating:,C
+Apple Rating:,17+
+Apple Rating:,17+
+PEGI Rating:,18
+USK Rating:,16
+SMECCV Rating:,C (Adultos +18 Años)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+PEGI Rating:,18
+PEGI Rating:,18
+USK Rating:,16
+PEGI Rating:,18
+USK Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,PG
+ClassInd Rating:,12
+SMECCV Rating:,B (+12 Años)
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+ESRB Rating:,Teen
+CERO Rating:,B
+ESRB Rating:,Teen
+RARS Rating:,12+
+ClassInd Rating:,16
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+CERO Rating:,C
+PEGI Rating:,12
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,G
+ClassInd Rating:,L
+SMECCV Rating:,A (Todo Público)
+GSRR/TESRI Rating:,Protected (6+)
+GCAM Rating:,3
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+CERO Rating:,D
+GRAC Rating:,18+
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,M
+ClassInd Rating:,16
+GSRR/TESRI Rating:,Restricted (18+)
+IMDA rating:,M18
+PEGI Rating:,18
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+ClassInd Rating:,12
+PEGI Rating:,12
+PEGI Rating:,12
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,18+
+CERO Rating:,D
+ACB Rating:,MA 15+
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+CERO Rating:,Z
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,16+
+CERO Rating:,B
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,R18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,R18+
+CERO Rating:,B
+CERO Rating:,B
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,12
+Apple Rating:,12+
+Apple Rating:,12+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,3
+USK Rating:,6
+CERO Rating:,A
+SMECCV Rating:,B (+12 Años)
+CERO Rating:,B
+PEGI Rating:,12
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+RARS Rating:,12+
+ESRB Rating:,Everyone 10+
+ClassInd Rating:,12
+ESRB Rating:,Everyone 10+
+ClassInd Rating:,12
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+CERO Rating:,B
+ACB Rating:,PG
+OFLC (New Zealand) Rating:,PG
+ClassInd Rating:,10
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,PG
+OFLC (New Zealand) Rating:,PG
+ClassInd Rating:,10
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+NMC Rating:,7
+GCAM Rating:,7
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,PG
+OFLC (New Zealand) Rating:,PG
+ClassInd Rating:,10
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+NMC Rating:,7
+GCAM Rating:,7
+PEGI Rating:,7
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+RARS Rating:,6+
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,PG
+OFLC (New Zealand) Rating:,PG
+ClassInd Rating:,10
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+GCAM Rating:,7
+CCC (Chile) Rating:,8+
+IARC Rating:,7+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,12
+RARS Rating:,6+
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,PG
+OFLC (New Zealand) Rating:,PG
+ClassInd Rating:,10
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+GCAM Rating:,7
+CCC (Chile) Rating:,8+
+IARC Rating:,7+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+ESRB Rating:,Teen
+SMECCV Rating:,B (+12 Años)
+CERO Rating:,B
+PEGI Rating:,12
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,6
+CERO Rating:,A
+ACB Rating:,G
+SMECCV Rating:,A (Todo Público)
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,18+
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,16+
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,18
+CERO Rating:,C
+CERO Rating:,C
+ESRB Rating:,Everyone 10+
+CERO Rating:,A
+ESRB Rating:,Everyone
+PEGI Rating:,7
+USK Rating:,6
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,PG
+ClassInd Rating:,L
+SMECCV Rating:,A (Todo Público)
+CERO Rating:,Z
+PEGI Rating:,16
+USK Rating:,16
+CERO Rating:,Z
+ACB Rating:,M
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+RARS Rating:,16+
+CERO Rating:,A
+GRAC Rating:,15+
+ACB Rating:,MA 15+
+ClassInd Rating:,14
+GSRR/TESRI Rating:,Parental Guidance (15+)
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Everyone 10+
+PEGI Rating:,3
+USK Rating:,6
+CERO Rating:,A
+ACB Rating:,G
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+ACB Rating:,M
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+ACB Rating:,M
+OFLC (New Zealand) Rating:,M
+ESRB Rating:,Teen
+PEGI Rating:,3
+PEGI Rating:,18
+PEGI Rating:,12
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,MA 15+
+PEGI Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R16
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+RARS Rating:,6+
+CERO Rating:,A
+GRAC Rating:,All
+ACB Rating:,PG
+ClassInd Rating:,L
+SMECCV Rating:,B (+12 Años)
+GSRR/TESRI Rating:,Protected (6+)
+NMC Rating:,7
+GCAM Rating:,7
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,16
+CERO Rating:,C
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+USK Rating:,16
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,12
+ACB Rating:,PG
+CERO Rating:,C
+CERO Rating:,C
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,A
+GRAC Rating:,12+
+ACB Rating:,PG
+ClassInd Rating:,12
+GSRR/TESRI Rating:,Parental Guidance (12+)
+NMC Rating:,12
+GCAM Rating:,12
+IMDA rating:,For all ages
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+CERO Rating:,D
+ClassInd Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+ESRB Rating:,Everyone 10+
+USK Rating:,12
+Apple Rating:,9+
+Apple Rating:,9+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,12
+PEGI Rating:,18
+ClassInd Rating:,18
+PEGI Rating:,18
+ClassInd Rating:,18
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+ACB Rating:,R18+
+OFLC (New Zealand) Rating:,R16
+IARC Rating:,18+
+PEGI Rating:,18
+ClassInd Rating:,18
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+ACB Rating:,R18+
+OFLC (New Zealand) Rating:,R16
+ClassInd Rating:,18
+GSRR/TESRI Rating:,Restricted (18+)
+IARC Rating:,18+
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+ACB Rating:,R18+
+OFLC (New Zealand) Rating:,R16
+ClassInd Rating:,18
+GSRR/TESRI Rating:,Restricted (18+)
+IARC Rating:,18+
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+CERO Rating:,C
+GRAC Rating:,15+
+ClassInd Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+PEGI Rating:,12
+CERO Rating:,C
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,MA 15+
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,MA 15+
+USK Rating:,16
+PEGI Rating:,18
+USK Rating:,16
+ACB Rating:,MA 15+
+ClassInd Rating:,16
+PEGI Rating:,12
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+ESRB Rating:,Everyone
+GRAC Rating:,All
+ClassInd Rating:,L
+ESRB Rating:,Everyone
+GRAC Rating:,All
+ClassInd Rating:,L
+ESRB Rating:,Mature
+PEGI Rating:,18
+USK Rating:,16
+RARS Rating:,18+
+CERO Rating:,D
+ACB Rating:,MA 15+
+OFLC (New Zealand) Rating:,R13
+ClassInd Rating:,16
+PEGI Rating:,12
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+Apple Rating:,12+
+Apple Rating:,12+
+PEGI Rating:,18
+PEGI Rating:,18
+USK Rating:,18 (keine Jugendfreigabe)
+RARS Rating:,18+
+ACB Rating:,MA 15+
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+ACB Rating:,PG
+IARC Rating:,12+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+Apple Rating:,12+
+Apple Rating:,12+
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+PEGI Rating:,18
+ESRB Rating:,Mature
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,16
+GRAC Rating:,15+
+ACB Rating:,PG
+ClassInd Rating:,12
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,0 (ohne Altersbeschränkung)
+ClassInd Rating:,L
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+RARS Rating:,0+
+ESRB Rating:,Everyone 10+
+Apple Rating:,4+
+Apple Rating:,4+
+ESRB Rating:,Teen
+PEGI Rating:,12
+ACB Rating:,PG
+PEGI Rating:,18
+ESRB Rating:,Teen
+VRCR Rating:,Comfortable
+ESRB Rating:,Everyone 10+
+PEGI Rating:,7
+USK Rating:,6
+ESRB Rating:,Everyone 10+
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,B
+GRAC Rating:,12+
+ACB Rating:,M
+ClassInd Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+ESRB Rating:,Teen
+CERO Rating:,B
+ESRB Rating:,Teen
+CERO Rating:,B
+PEGI Rating:,3
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,6
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,6
+GRAC Rating:,12+
+ACB Rating:,PG
+ClassInd Rating:,10
+GSRR/TESRI Rating:,Parental Guidance (12+)
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+GRAC Rating:,15+
+ACB Rating:,PG
+ClassInd Rating:,10
+GSRR/TESRI Rating:,Parental Guidance (15+)
+CCC (Chile) Rating:,14+
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+GRAC Rating:,15+
+ACB Rating:,PG
+ClassInd Rating:,10
+GSRR/TESRI Rating:,Parental Guidance (15+)
+CCC (Chile) Rating:,14+
+IARC Rating:,12+
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+RARS Rating:,16+
+CERO Rating:,C
+GRAC Rating:,15+
+ACB Rating:,M
+ClassInd Rating:,12
+FPB Rating:,13
+GSRR/TESRI Rating:,Parental Guidance (12+)
+GCAM Rating:,16
+CCC (Chile) Rating:,14+
+IARC Rating:,16+
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,16
+CERO Rating:,C
+ESRB Rating:,Mature
+PEGI Rating:,16
+CERO Rating:,C
+ESRB Rating:,Teen
+PEGI Rating:,12
+ACB Rating:,PG
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+GRAC Rating:,All
+ACB Rating:,G
+ClassInd Rating:,L
+IARC Rating:,3+
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+IARC Rating:,3+
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+CERO Rating:,A
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+IARC Rating:,3+
+ESRB Rating:,Everyone
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+CCC (Chile) Rating:,Toda Edad (TE)
+IARC Rating:,3+
+ESRB Rating:,Everyone
+PEGI Rating:,3
+USK Rating:,0 (ohne Altersbeschränkung)
+GRAC Rating:,12+
+ACB Rating:,G
+OFLC (New Zealand) Rating:,G
+ClassInd Rating:,L
+GSRR/TESRI Rating:,General (0+)
+CCC (Chile) Rating:,Toda Edad (TE)
+IARC Rating:,3+
+Apple Rating:,4+
+Apple Rating:,4+
+ESRB Rating:,Teen
+PEGI Rating:,16
+USK Rating:,12
+ACB Rating:,M
+PEGI Rating:,16
+USK Rating:,12
+SMECCV Rating:,B15 (+15 Años)
+PEGI Rating:,16
+PEGI Rating:,16
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,16
+ACB Rating:,M
+IARC Rating:,12+
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+CERO Rating:,C
+ESRB Rating:,Teen
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,12+
+ESRB Rating:,Everyone 10+
+PEGI Rating:,12
+USK Rating:,6
+RARS Rating:,12+
+ACB Rating:,PG
+ClassInd Rating:,L
+PEGI Rating:,12
+ACB Rating:,PG
+CERO Rating:,D
+CERO Rating:,D
+ESRB Rating:,Teen
+PEGI Rating:,12
+ClassInd Rating:,L
+ClassInd Rating:,L
+ESRB Rating:,Teen
+PEGI Rating:,16
+PEGI Rating:,16
+CERO Rating:,C
+CERO Rating:,C
+PEGI Rating:,16
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,16
+RARS Rating:,16+
+CERO Rating:,D
+GRAC Rating:,18+
+ClassInd Rating:,14
+SMECCV Rating:,C (Adultos +18 Años)
+PEGI Rating:,3
+ESRB Rating:,Mature
+PEGI Rating:,16
+USK Rating:,16
+RARS Rating:,18+
+ESRB Rating:,Mature
+ESRB Rating:,Teen
+PEGI Rating:,18
+USK Rating:,12
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+PEGI Rating:,12
+PEGI Rating:,16
+PEGI Rating:,16
+PEGI Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+ClassInd Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
+ClassInd Rating:,12
+ESRB Rating:,Teen
+PEGI Rating:,12
+USK Rating:,12
